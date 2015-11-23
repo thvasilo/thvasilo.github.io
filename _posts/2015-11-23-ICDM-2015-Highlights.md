@@ -5,6 +5,8 @@ categories: conferences
 tags: data- mining research
 ---
 
+![Atlantic City](/assets/ac.jpg)
+
 This past week I had the opportunity to attend the [15th IEEE International Conference on
 Data Mining](http://icdm2015.stonybrook.edu/), held in Atlantic City, NJ, November 14-17, 2015.
 This was the first scientific conference I attended and we had a chance to present our
