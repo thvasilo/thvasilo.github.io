@@ -133,8 +133,8 @@ ICDM featured 3 keynotes this year. The first one was given by Robert F. Engle, 
 Nobel Memorial Prize in Economic Sciences in 2003. He presented a summary of some of his seminal
 work on [ARCH](https://en.wikipedia.org/wiki/Autoregressive_conditional_heteroskedasticity),
 and presented some more recent work on financial volatility measurement through the [V-lab](http://vlab.stern.nyu.edu/)
-project. This keynote was quite math-havey as a result and I think many people in the audience did
-not find it that interesting/relevant to their work, estimated from the proportion of people with looking at their
+project. This keynote was quite math-heavy as a result and I think many people in the audience did
+not find it that interesting/relevant to their work, estimated from the proportion of people looking at their
 laptops around me.
 
 # Michael I. Jordan
@@ -144,21 +144,21 @@ Computational Thinking, Inferential Thinking and 'Big Data'", a talk he has deli
 of other venues before, so (some of) the [slides are available](http://www.stat.harvard.edu/NRC2014/MichaelJordan.pdf).
 His keynote revolved around some of what he identified as central demands for learning and inference
 and the tradeoffs between them; namely error bounds ("inferential quality"),
-scaling/runtime/communication, and privacy. He identified the problem of lack of an interface
+scaling/runtime/communication, and privacy. He identified the problem of the lack of an interface
 between statistical theory and computational theory which currently have an "oil/water"
-relationship, where in one more data points are great as they reduce uncertainty, and can be a cause
-of problems in the other as we usually measure complexity in the order of data points. The approach
+relationship. In statistics, more data points are great as they reduce uncertainty, but can be a cause
+of problems in terms of computation as we usually measure complexity in the order of data points. The approach
 suggested is to to "treat computation, communication, and privacy as constraints on statistical
 risk".
 
-In terms of privacy he mentioned how our inference problem basically has 3 components, the
+In terms of privacy he mentioned how our inference problem basically has 3 components: the
 population P, which we try to approximate with our sample S, which we then modify
 according to our privacy concerns to get our final dataset Q, which we can query.
 In dealing with privacy issues he mentioned [differential privacy](https://en.wikipedia.org/wiki/Differential_privacy)
-as a good way to quantify the privacy loss for a query. This should allow us, given a some privacy
+as a good way to quantify the privacy loss for a query. This should allow us, given some privacy
 concerns, to estimate the amount of data we need to achieve the same level of risk in our queries.
 
-For the tradeoff between inferential quality and communication, a common tradeoff in distributed
+For the tradeoff between inferential quality and communication, common in distributed
 learning settings, he proposed the use of a channel with certain communication constraints, as a
 way to impose bitrate constraints. The proposed solution involves minimax risk with B-bounded
 communication, which allows for optimal estimation under a communication constraint (see
@@ -172,7 +172,7 @@ of samples from the population that allow for the efficient estimation of parame
 with a frequentist approach in this case is that the communication cost of each resampling can be
 prohibitively high for large datasets, e.g. ~623GB for a 1TB dataset
 (see [here](http://www.stat.washington.edu/courses/stat527/s13/readings/EfronTibshirani_JASA_1997.pdf) why).
-The proposed solution here is the "[Bag of Little Bootstraps](http://web.cs.ucla.edu/~ameet/blb_icml2012_final.pdf)",
+The proposed solution here is the ["Bag of Little Bootstraps"](http://web.cs.ucla.edu/~ameet/blb_icml2012_final.pdf),
 in which one bootstraps many small subsets of the data and performs multiple computations on these
 small samples. The results from these computations are then averaged to obtain an estimate of the
 parameters of the population.
@@ -200,7 +200,7 @@ the way that everything worked out. Sessions generally began and ended on time, 
 tutorials were well organized and useful, and I particularly enjoyed the PhD forum.
 One thing that I found unusual was the fact that even though the proceedings were handed out in
 digital form (kudos for that) attendees had to choose between the conference or the workshop
-proceedings. My guess is this was for licensing cost issues, but it would have been nice to have
+proceedings. My guess is this happened for licensing cost issues, but it would have been nice to have
 access to both.
 
 The conference this year took place at Bally's casino/hotel in Atlantic City.
@@ -215,6 +215,5 @@ attending next year's edition in Barcelona!
 
 There was a lot of other great work at the conference as well, but these were the presentations
 I found most memorable.
-So that's all for now. If I've made a terrible mistake when describing your work, shoot me an [email](mailto:tvas@sics.se)
+So that's all for now, if I've made a terrible mistake when describing your work, shoot me an [email](mailto:tvas@sics.se)
 and I'll fix it ASAP.
-
