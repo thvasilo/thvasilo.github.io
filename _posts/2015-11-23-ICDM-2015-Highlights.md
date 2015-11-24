@@ -88,7 +88,7 @@ was missing.
 An interesting idea presented in "Network Mining 1" was ["Absorbing random-walk centrality"](http://arxiv.org/abs/1509.02533),
 where the authors presented a way to identify _teams_  of central nodes in a graph. An application
 for this measure could be for example: given a subgraph of Twitter that we know contains
-a number of accounts about politics, find hte important nodes that represent a diverse set
+a number of accounts about politics, find the important nodes that represent a diverse set
 of political views. The authors show that this is an NP-hard problem, and the greedy algorithm
 presented has a complexity of O(n^3), where n is the number of nodes, which makes it
 inapplicable for large graphs. Personalized PageRank could be used as heuristic however which
