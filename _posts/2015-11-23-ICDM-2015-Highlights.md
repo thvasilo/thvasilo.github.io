@@ -148,7 +148,7 @@ scaling/runtime/communication, and privacy. He identified the problem of the lac
 between statistical theory and computational theory which currently have an "oil/water"
 relationship. In statistics, more data points are great as they reduce uncertainty, but can be a cause
 of problems in terms of computation as we usually measure complexity in the order of data points. The approach
-suggested is to to "treat computation, communication, and privacy as constraints on statistical
+suggested is to "treat computation, communication, and privacy as constraints on statistical
 risk".
 
 In terms of privacy he mentioned how our inference problem basically has 3 components: the
