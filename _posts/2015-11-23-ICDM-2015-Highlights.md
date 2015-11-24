@@ -10,7 +10,7 @@ tags: data- mining research
 This past week I had the opportunity to attend the [15th IEEE International Conference on
 Data Mining](http://icdm2015.stonybrook.edu/), held in Atlantic City, NJ, November 14-17, 2015.
 This was the first scientific conference I attended and we had a chance to present our
-work on scalable graph similarity calculation. In this post I will try to point out some
+work on [scalable graph similarity calculation](/assets/concepts-icdm.pdf). In this post I will try to point out some
 of the more interesting work from the conference (based on some of the sessions I attended)
 and summarize the keynotes. I've included links to the full-text papers whenever I could
 find them.
