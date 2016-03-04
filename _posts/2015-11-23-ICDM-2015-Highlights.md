@@ -64,7 +64,7 @@ services in China, and show that their method handily beats the current state of
 It's a well written work that deserves the praise it got, however I would definitely be interested
 in seeing it applied and evaluated on a different publicly available dataset, (although they are
 hard to come by in this domain) and an extension of the method that predicts the cascades as they
-happen in real-time (shameless plug: Use [Apache Flink](flink.apache.org) for your real-time processing needs!).
+happen in real-time (shameless plug: Use [Apache Flink](https://flink.apache.org) for your real-time processing needs!).
 
 # Big Data 2
 

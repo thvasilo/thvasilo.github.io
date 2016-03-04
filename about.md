@@ -6,7 +6,7 @@ permalink: /about/
 
 Hey there, I'm Theodoros (Theodore) Vasiloudis and I'm a Machine Learning researcher at the Swedish Institute for Computer Science
 in Stockholm. My main research interests include large-scale machine learning, graph processing, and
-natural language processing. I also contribute to the [Apache Flink](flink.apache.org) distributed processing engine,
+natural language processing. I also contribute to the [Apache Flink](https://flink.apache.org) distributed processing engine,
 and am one of the core developers of its Machine Learning library, [FlinkML](https://ci.apache.org/projects/flink/flink-docs-master/libs/ml/).
 
 I completed my Master's Degree in Machine Learning at the Royal Institute of Technology, KTH.
