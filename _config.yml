@@ -11,4 +11,4 @@ twitter_username: thvasilo
 github_username:  thvasilo
 
 # Build settings
-markdown: kramdown
+markdown: kramdown # redcarpet TODO: Github pages now only supports kramdown, need to switch over and fix math
