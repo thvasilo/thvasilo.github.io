@@ -15,11 +15,14 @@ of the more interesting work from the conference (based on some of the sessions 
 and summarize the keynotes. I've included links to the full-text papers whenever I could
 find them.
 
+* TOC
+{:toc}
+
 ## Highlights from the sessions I attended:
 
-## Day 1
+### Day 1
 
-# Applications 1
+#### Applications 1
 
 The first session I attended was named "Applications 1" and it included
 a number of applications (surprise!) on a diverse set of domains. The session started
@@ -47,7 +50,7 @@ that it can prove a starting point for a more generalized approach, as tensor fa
 problems can surface in wide variety of domains so solving their scalability problems
 could have an effect on a wide range of fields.
 
-# Mining Social Networks 1
+#### Mining Social Networks 1
 
 The next session I attended was "Mining Social Networks 1", where the best student paper,
 ["From Micro to Macro: Uncovering and Predicting Information Cascading Process with
@@ -66,7 +69,7 @@ in seeing it applied and evaluated on a different publicly available dataset, (a
 hard to come by in this domain) and an extension of the method that predicts the cascades as they
 happen in real-time (shameless plug: Use [Apache Flink](https://flink.apache.org) for your real-time processing needs!).
 
-# Big Data 2
+#### Big Data 2
 
 The last session I attended on Sunday was "Big Data 2". The two regular papers from that
 session were perhaps application specific but nonetheless provided some valuable insights.
@@ -81,9 +84,9 @@ something that a previous related paper from Google,
 ["Ad Click Prediction: a View from the Trenches"](https://www.eecs.tufts.edu/~dsculley/papers/ad-click-prediction.pdf),
 was missing.
 
-## Day 2
+### Day 2
 
-# Network Mining 1
+#### Network Mining 1
 
 An interesting idea presented in "Network Mining 1" was ["Absorbing random-walk centrality"](http://arxiv.org/abs/1509.02533),
 where the authors presented a way to identify _teams_  of central nodes in a graph. An application
@@ -94,9 +97,9 @@ presented has a complexity of O(n^3), where n is the number of nodes, which make
 inapplicable for large graphs. Personalized PageRank could be used as heuristic however which
 is more computationally efficient.
 
-## Day 3
+### Day 3
 
-# Graph Mining
+#### Graph Mining
 
 We presented out work, ["Knowing an Object by the Company It Keeps: A Domain-Agnostic Scheme for Similarity Discovery"](/assets/concepts-icdm.pdf),
 in the "Graph Mining" session. Our main contribution is a method that allows us to
@@ -127,7 +130,7 @@ way to solve new problems, especially when the results are so impressive.
 
 ## Keynotes
 
-# Robert F. Engle
+#### Robert F. Engle
 
 ICDM featured 3 keynotes this year. The first one was given by Robert F. Engle, winner of the
 Nobel Memorial Prize in Economic Sciences in 2003. He presented a summary of some of his seminal
@@ -137,7 +140,7 @@ project. This keynote was quite math-heavy as a result and I think many people i
 not find it that interesting/relevant to their work, estimated from the proportion of people looking at their
 laptops around me.
 
-# Michael I. Jordan
+#### Michael I. Jordan
 
 The second keynote, and the most interesting for me, was given by M.I. Jordan, with the title "On
 Computational Thinking, Inferential Thinking and 'Big Data'", a talk he has delivered in a couple
@@ -187,7 +190,7 @@ In closing Jordan identified there are many remaining conceptual and mathematica
 problem of 'Big Data' and facing these will require a "rapprochement between computer science and
 statistics" which would reshape both disciplines and might take decades to complete.
 
-# Lada Adamic
+#### Lada Adamic
 
 Unfortunately I had to skip Lada Adamic's keynote, so I would really appreciate if someone has a
 summary that I can add here.
