@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 Hey there, I'm Theodoros (Theodore) Vasiloudis and I'm a Machine Learning researcher at the Swedish Institute for Computer Science
-in Stockholm. My main research interests include large-scale machine learning, graph processing, and
-natural language processing. I also contribute to the [Apache Flink](https://flink.apache.org) distributed processing engine,
+in Stockholm. My main research interests include large-scale machine learning, online learning, and
+decision trees. I also contribute to the [Apache Flink](https://flink.apache.org) distributed processing engine,
 and am one of the core developers of its Machine Learning library, [FlinkML](https://ci.apache.org/projects/flink/flink-docs-master/libs/ml/).
 
 I completed my Master's Degree in Machine Learning at the Royal Institute of Technology, KTH.
@@ -20,7 +20,7 @@ courses which lead to a thesis on the subject of multi-label classification usin
 working with the Machine Learning and Knowledge
 Discovery group of the school, under the supervision of Dr. Grigorios Tsoumakas.
 
-In addition to my studies I was an active member of the student organisation Board of
-European Students of Technology (BEST) which has helped me gain experience in working in a
-multicultural environment, being in contact with company and state representatives, and managing a
-team of people from diverse backgrounds and organising local and international events.
+I'm industrial Phd student at KTH, and I try to complete one internship every year of my
+PhD. My work on Flink was done while in Berlin with [Data Artisans](https://data-artisans.com/) in the summer of 2015, the
+following year I worked on [streaming session length prediction](https://dl.acm.org/citation.cfm?id=3080695) at Pandora Media,
+while in 2017 I interned at Amazon, working on GANs for NLP for Alexa.
