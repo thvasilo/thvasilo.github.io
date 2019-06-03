@@ -1,0 +1,1482 @@
+.
+├── Active Learning
+│   ├── Active Learning for Data Streams - Phd.pdf
+│   ├── Active Learning for Streaming Networked Data.pdf
+│   ├── Active Learning from Data Streams.pdf
+│   ├── Active Learning Literature Survey
+│   ├── Active Learning with Statistical Models.pdf
+│   ├── A survey on instance selection for active learning.pdf
+│   ├── Budget Optimization for Active Learning in Data Streams - Msc.pdf
+│   ├── Empirical Comparison of Active Learning Strategies for Handling Temporal Drift.pdf
+│   ├── Feedback-Driven Multiclass Active Learning for Da ta Streams.pdf
+│   ├── Interactive Algorithms - from Pool to Stream.pdf
+│   ├── Probabilistic Active Learning in Datastreams.pdf
+│   ├── Probabilistic Active Learning in Datastreams - Pseudocode.pdf
+│   ├── Single-pass active learning with conflict and ignorance.pdf
+│   └── Toward Optimal Active Learning through Sampling Estimation of Error Reduction.pdf
+├── Ad Science
+│   ├── Ad Click Prediction: a View from the Trenches .pdf
+│   ├── Click-through Prediction for Advertising in Twitter Timeline.pdf
+│   ├── Improving Post-Click User Engagement on Native Ads via Survival Analysis.pdf
+│   ├── Model Ensemble for Click Prediction in Bing Search Ads.pdf
+│   ├── Myerson Lemma - Notes.pdf
+│   ├── Myerson - Optimal Auction Design.pdf
+│   ├── Ontology evaluation and validation.pdf
+│   ├── Simple and scalable response prediction for display advertising.pdf
+│   ├── Simple and scalable solution for display advertising.pdf
+│   └── Using boosted trees for click-through rate prediction for sponsored search.pdf
+├── An embarrassingly simple approach to zero-shot learning.pdf
+├── ANN
+│   ├── 4443-algorithms-for-hyper-parameter-optimization.pdf
+│   ├── A guide to convolution arithmetic for deep learning.pdf
+│   ├── A Probabilistic Theory of Deep Learning.pdf
+│   ├── Bayesian Compression for Deep Learning.pdf
+│   ├── Bayesian Hypernetworks.pdf
+│   ├── Benefits of depth in neural networks.pdf
+│   ├── Deep Image.pdf
+│   ├── Deep Learning of Representations - Looking Forward.pdf
+│   ├── deepmind-mastering-go.pdf
+│   ├── DeepMind - Semi-supervised Learning with Deep Generative Models.pdf
+│   ├── Deep Neural Networks as Gaussian Processes.pdf
+│   ├── DeepStereo: Learning to Predict New Views from the World’s Imagery.pdf
+│   ├──  Distributed Training of Deep Neural Networks with Theoretical Analysis: Under SSP Setting.pdf
+│   ├── DNN-Representation-ICLR2013.pdf
+│   ├──  Dropout as a Bayesian Approximation Appendix.pdf
+│   ├──  Dropout as a Bayesian Approximation Representing Model Uncertainty in Deep Learning.pdf
+│   ├── Early Stopping - But When.pdf
+│   ├──  Exploring the Neural Algorithm of Artistic Style.pdf
+│   ├── First- Second Order Methods For Learning.PDF
+│   ├── Human-level control through deep reinforcement learning.pdf
+│   ├── Hybrid computing using a neural  network with dynamic external memory.pdf
+│   ├── Intriguing properties of neural networks .pdf
+│   ├── Large Scale Distributed Deep Networks.pdf
+│   ├── Learning Deep Architectures for AI.pdf
+│   ├── Learning with Hierarchical-Deep Models.pdf
+│   ├── lecun-MIR.pdf
+│   ├── LSTM - A Search Space Odyssey.pdf
+│   ├── Mastering the game of Go with deep neural networks and tree search.pdf
+│   ├── Memory Networks.pdf
+│   ├── One-Shot Generalization in Deep Generative Models.pdf
+│   ├── One weird trick for parallelizing convolutional neural networks.pdf
+│   ├── On Modern Deep Learning and Variational Inference.pdf
+│   ├── On optimization methods for deep learning.pdf
+│   ├── On the emergence of invariance and disentangling in deep representations.pdf
+│   ├──  Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks.pdf
+│   ├── Representation Learning - A Review and New Perspectives.pdf
+│   ├── RNNs
+│   │   ├── An Empirical Exploration of Recurrent Network Architectures.pdf
+│   │   ├── Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation.pdf
+│   │   ├── Professor Forcing - A New Algorithm for Training Recurrent Networks.pdf
+│   │   └── Sequence to Sequence Learning with Neural Networks.pdf
+│   ├──  Semi-Supervised Learning with Ladder Networks.pdf
+│   ├── SparkNet - Deep Neural Networks for Spark.pdf
+│   ├── Teaching Machines to Read and Comprehend.pdf
+│   ├── Understanding deep learning requires rethinking generalization.pdf
+│   ├── Understanding the difficulty of training deep feedforward neural networks.pdf
+│   ├──  Variance Reduction in SGD by Distributed Importance Sampling.pdf
+│   └── Weight Uncertainty in Neural Networks.pdf
+├── Autodiff
+│   └── A Review of automatic differentiation and its efficient implementation
+├── AutoML
+│   ├── Automatic Discovery of the Statistical Types of Variables in a Dataset.pdf
+│   └── Progressive Neural Architecture Search.pdf
+├── Bagging & Boosting
+│   ├── Boosting  Algorithms -  Regularization, Prediction  and  Model  Fitting.pdf
+│   ├── Boosting By Majority.pdf
+│   ├── Boosting Notes - Umass - SML2010.pdf
+│   ├── Ensemble Methods in Machine Learning.pdf
+│   ├── Learning Ensembles from Bites - A Scalable and Accurate Approach.pdf
+│   ├── MULTIBOOST: A multi-purpose Boosting Package.pdf
+│   ├── Online multiclass boosting.pdf
+│   └── Optimization by Gradient Boosting.pdf
+├── Bandits
+│   ├── Almost Optimal Exploration in Multi-Armed Bandits.pdf
+│   ├── A modern Bayesian look at the multi-armed bandit.pdf
+│   ├── Best Arm Identification in Multi-Armed Bandits.pdf
+│   ├── Gambling in a rigged casino: The adversarial multi-armed bandit problem.pdf
+│   └── Multi-Armed Bandit Algorithms and Empirical Evaluation.pdf
+├── Bayesian Learning
+│   ├── A Bayesian Analysis of Some Nonparametric Problems.pdf
+│   ├── A family of algorithms for approximate Bayesian inference.pdf
+│   ├── Bayesian Learning via Stochastic Gradient Langevin Dynamics.pdf
+│   ├── Bayesian Nonparametric Kernel-Learning.pdf
+│   ├── Bayesian Posterior Sampling via Stochastic Gradient Fisher Scoring.pdf
+│   ├── Baysian Nonparametrics
+│   │   ├── An infinite latent attribute model for network data.pdf
+│   │   ├── BAYESIAN NONPARAMETRIC MODELS FOR NAME DISAMBIGUATION AND SUPERVISED LEARNING.pdf
+│   │   ├── Dirichlet Processes
+│   │   │   ├── 1579513.ppt
+│   │   │   └── Markov Chain Sampling Methods for Dirichlet Process Mixture Models.pdf
+│   │   ├── Gaussian Processes
+│   │   │   ├── Advances in Gaussian processes - Slides.pdf
+│   │   │   ├── A Framework for Evaluating Approximation Methods for Gaussian Process Regression.pdf
+│   │   │   ├── andrewgwthesis - Covariance Kernels for Fast Automatic Pattern Discovery and Extrapolation with Gaussian Processes.pdf
+│   │   │   ├── Approximations for Binary Gaussian Process Classification.pdf
+│   │   │   ├── A Unifying View of Sparse Approximate Gaussian Process Regression.pdf
+│   │   │   ├── Computationally Efficient Gaussian Process Changepoint Detection and Regression - Msc Thesis.pdf
+│   │   │   ├── Constant-Time Predictive Distributions for Gaussian Processes.pdf
+│   │   │   ├── Deep Gaussian Processes and Variational Propagation of Uncertainty - Damianou Thesis.pdf
+│   │   │   ├── Deep Kernel Learning.pdf
+│   │   │   ├── Distributed Variational Inference in Sparse Gaussian Process Regression and Latent Variable Models.pdf
+│   │   │   ├── Efficient Kernel Machines Using the Improved Fast Gauss Transform.pdf
+│   │   │   ├── Fast Kernel Learning for Multidimensional Pattern Extrapolation.pdf
+│   │   │   ├── Fast Kronecker Inference in Gaussian Processes with non-Gaussian Likelihoods.pdf
+│   │   │   ├── Flexible and efficient Gaussian process models for machine learning - Phd Thesis.pdf
+│   │   │   ├── Gaussian Processes for Machine Learning - Book.pdf
+│   │   │   ├── Gaussian Process Kernels for Pattern Discovery and Extrapolation.pdf
+│   │   │   ├── GPatt - Fast Multidimensional Pattern Extrapolation with Gaussian Processes.pdf
+│   │   │   ├── GP - Intro.ps.gz
+│   │   │   ├── Kernel Interpolation for Scalable Structured Gaussian Processes (KISS-GP).pdf
+│   │   │   ├── Lawrence Slides - Approximations.pdf
+│   │   │   ├── Learning Scalable Deep Kernels with Recurrent Structure.pdf
+│   │   │   ├── Rasmussen NIPS Tutorial Slides.pdf
+│   │   │   ├── Scalable Inference for Structured Gaussian Process Models - PhD Thesis.pdf
+│   │   │   ├── Speeding up the binary Gaussian process classification.pdf
+│   │   │   ├── Stochastic Variational Deep Kernel Learning.pdf
+│   │   │   ├── Thoughts on Massively Scalable Gaussian Processes.pdf
+│   │   │   └── Understanding Probabilistic Sparse Gaussian Process Approximations.pdf
+│   │   └── Variational Inference A Review for Statisticians.pdf
+│   ├── Computational Statistics.pdf
+│   ├── Concrete Problems for Autonomous Vehicle Safety - Advantages of Bayesian Deep Learning.pdf
+│   ├── Expectation propagation as a way of life.pdf
+│   ├── Gaussian Processes
+│   │   ├── Deep Gaussian Processes.pdf
+│   │   ├── Local Gaussian Process Regressionfor Real Time Online Model Learning and Control.pdf
+│   │   ├── Online Sparse Gaussian Process Regressionand Its Applications.pdf
+│   │   └── When Gaussian Process Meets Big Data: A review of Scalabel GPs.pdf
+│   ├── Learning Gaussian Graphical Models with Observed or Latent FVSs.pdf
+│   ├── rainforth2017thesis.pdf
+│   ├── Stochastic Gradient Descent as Approximate Bayesian Inference.pdf
+│   └── Understanding the Metropolis-Hastings Algorithm.pdf
+├── Causality
+│   └── causal-inference-reading-list-fall-2016.pdf
+├── Clustering
+│   ├──  A Bayesian alternative to mutual information for the hierarchical clustering of dependent random variables.pdf
+│   ├── Criterion functions for document clustering: Experiments and Analysis.pdf
+│   ├── Data clustering 50 years beyond K-means.pdf
+│   └── Unsupervised Deep Embedding for Clustering Analysis.pdf
+├── Community Detection
+│   ├── A Model-based Approach to Attributed Graph Clustering.pdf
+│   ├── An infinite latent attribute model for network data.pdf
+│   ├── A Node Influence Based Label Propagation Algorithm for Community Detection in Networks.pdf
+│   ├── Attributed Graph Models: Modeling network structure with correlated attributes.pdf
+│   ├── Balanced multi-label propagation for overlapping community detection in social networks.pdf
+│   ├── Bayesian Approach to Network Modularity.pdf
+│   ├── Benchmarks for community detection.pdf
+│   ├── Clustering and Community Detection in Directed Networks: A Survey.pdf
+│   ├── Clustering attributed graphs models, measures and methods.pdf
+│   ├── Community-affiliation graph model for overlapping community detection.pdf
+│   ├── Community detection algorithms  a comparative analysis.pdf
+│   ├── Community Detection Fatemeh.pdf
+│   ├── Community Detection in Graphs - Fortunato survey.pdf
+│   ├── Community Detection in Large-scale Social Networks.pdf
+│   ├── Community Detection in Networks with Node Attributes.pdf
+│   ├── Community Detection on Evolving Graphs.pdf
+│   ├── Conductance and Congestion in Power Law Graphs.pdf
+│   ├──  Defining and Evaluating Network Communities based on Ground-truth.pdf
+│   ├── Detecting community structure in complex networks via node similarity.pdf
+│   ├── Detecting community structure via synchronous label propagation.pdf
+│   ├── Detecting the overlapping and hierarchical community structure in complex networks.pdf
+│   ├── Detect overlapping and hierarchical community structure in networks.pdf
+│   ├── Distributed Community Detection on Edge-labeled Graphs using Spark.pdf
+│   ├── Distributed Generation of Billion-node Social Graphs with Overlapping Community Structure.pdf
+│   ├── Efficient discovery of overlapping communities in massive networks.pdf
+│   ├── EgoLP Fast and Distributed Community Detection in Billion-node Social Networks.pdf
+│   ├── Egomunities, Exploring Socially Cohesive Person-based Communities.pdf
+│   ├── Empirical Comparison of Algorithms for Network Community Detection.pdf
+│   ├── Engineering high-performance community detection heuristics for massive graphs.pdf
+│   ├── Fast unfolding of communities in large networks.pdf
+│   ├── Finding overlapping communities in social networks toward a rigorous approach.pdf
+│   ├── Fuzzy overlapping communities in networks.pdf
+│   ├── Generalized Measures for the Evaluation of Community Detection Methods.pdf
+│   ├── High quality, scalable and parallel community detection for large real graphs.pdf
+│   ├── I-Louvain - An Attributed Graph Clustering Method.pdf
+│   ├── LabelRank: A Stabilized Label Propagation Algorithm for Communtiy Detection in Networks.pdf
+│   ├── Learning to Discover Social Circles in Ego Networks.pdf
+│   ├── Link communities reveal multiscale complexity in networks.pdf
+│   ├── Link communities reveal multiscale complexity in networks - Small.pdf
+│   ├── Local Search of Communities in Large Graphs.pdf
+│   ├── Modeling Large Social Networks in Context.pdf
+│   ├── Modeling Social Networks with Node Attributes using the MAGM.pdf
+│   ├── Neighborhoods are good communities.pdf
+│   ├──  Normalized Mutual Information to evaluate overlapping community finding algorithms.pdf
+│   ├── On_Dynamic_Graph_Partitioning_and_Graph_Clustering.pdf
+│   ├── On the equivalence of the label propagation method of community detection and a Potts model approach.pdf
+│   ├── Overlapping Community Detection at Scale A non-negative Matrix Factorization Approach.pdf
+│   ├── Overlapping community detection in labeled graphs.pdf
+│   ├── Overlapping Community Detection in Networks The State of the Art and Comparative Study.pdf
+│   ├── Parallel Correlation Clustering on Big Graphs.pdf
+│   ├──  Parallelizing SLPA for scalable overlapping community detection.pdf
+│   ├── Parallel Overlapping Community Detection with SLPA.pdf
+│   ├── Physics inspired approaches to community detection.pdf
+│   ├── Preferential Attachment in Graphs with Affnities.pdf
+│   ├── Provably Fast Inference of Latent Features from Networks.pdf
+│   ├──  Robust network community detection using balanced propagation.pdf
+│   ├──  Scalable and high performance betweenness centrality on the GPU.pdf
+│   ├── Scalable Anomaly Ranking of Attributed Neighborhoods.pdf
+│   ├── Semantic clustering of social networks using points of view.pdf
+│   ├── Semantic community identification in large attribute networks.pdf
+│   ├── SLPA - Towards Linear Time Overlapping Community Detection in Social Networks.pdf
+│   ├── SLPA Uncovering Overlapping Communities in Social Networks via A Speaker-listener Interaction Dynamic Process.pdf
+│   ├── Spectral Subspace Clustering for Graphs with Feature Vectors.pdf
+│   ├── Streaming balanced graph partitioning algorithms for random graphs.pdf
+│   ├── Towards real-time community detection in large networks.pdf
+│   ├── Triangles to Capture Social Cohesion.pdf
+│   ├── Uncovering the overlapping community structure of complex networks in nature and society.pdf
+│   ├── Unfolding communities in large complex networks Combining defensive and offensive label propagation for core extraction.pdf
+│   ├── Unveiling the Structure of Multi-attributed Networks via Join Non-negative Matrix Factorization.pdf
+│   ├── User Profiling in an Ego Network - Co-profiling Attributes and Relationships.pdf
+│   ├── Vertex neighborhoods, low conductance cuts, and good seeds for local community methods.pdf
+│   └── Vertex Neighborhoods, Low Conductance Cuts,and Good Seeds for Local Community Methods.pdf
+├── Conformal Prediction
+│   ├── Accelerating difficulty estimation for conformal regression forests.pdf
+│   ├── A Tutorial on Conformal Prediction - Shafer.pdf
+│   ├── A Universal Well-Calibrated Algorithm for On-line Classification.pdf
+│   ├── Comformal Prediction - Tiny Tutorial.pdf
+│   ├── Conformal Prediction Using Decision Trees.pdf
+│   ├── CP_Tutorial_2017.pdf
+│   ├── Distribution-Free Predictive Inference For Regression.pdf
+│   ├── Efficiency Comparison of Unstable Transductive and Inductive Conformal Classifiers.pdf
+│   ├── Inductive Confidence Machines for Regression.pdf
+│   ├── Inductive Conformal Prediction - Theory and Application to Neural Networks .pdf
+│   ├── Introducing Conformal Prediction in Predictive Modeling.pdf
+│   ├── Learning by Transduction.pdf
+│   ├── On-Line Confidence Machines Are Well-Calibrated.pdf
+│   ├── Regression Conformal Prediction with Nearest Neighbours.pdf
+│   ├── Regression conformal prediction with random forests.pdf
+│   ├── SICS Conformal prediction 2017-01-12.pdf
+│   ├── Transduction with Confidence and Credibility.pdf
+│   └── Transductive conformal predictors.pdf
+├── Decision Trees
+│   ├── A Communication-Efficient Parallel Algorithm for Decision Tree.pdf
+│   ├── Boosted
+│   │   ├── Accelerated Gradient Boosting.pdf
+│   │   ├── Accelerating Gradient Boosting Machine.pdf
+│   │   ├── A Communication-Efficient Parallel Algorithm for Decision Tree.pdf
+│   │   ├── Approximation and Relaxation Approaches for Parallel and Distributed Machine Learning - PhD Thesis.pdf
+│   │   ├── catboost.pdf
+│   │   ├── CatBoost unbiased boosting with categorical features.pdf
+│   │   ├── Cost efficient gradient boosting.pdf
+│   │   ├── DimBoost.pdf
+│   │   ├── Efficient Gradient Boosted Decision Tree Training on GPUs.pdf
+│   │   ├── Faster Boosting with Smaller Memory.pdf
+│   │   ├── Learning to rank using multiple classification and gradient boosting.pdf - Shortcut.lnk
+│   │   ├── LightGBM - A Highly Efficient Gradient Boosting Decision Tree.pdf
+│   │   ├── lightgbm-supplementary-nips.pdf
+│   │   ├── Parallel Boosted Regression Trees for Web Search Ranking.pdf
+│   │   ├── Parallel Boosted Regression Trees.pdf
+│   │   ├── Philip Quals - XGBoost Project.pdf
+│   │   ├── planet.pdf
+│   │   ├── RapidScorer - Fast Tree Ensemble Evaluation by Maximizing Compactness in Data Level Parallelization.pdf
+│   │   ├── Stochastic Gradient Boosted Distributed Decision Trees.pdf
+│   │   ├── TF Boosted Trees: A scalable TensorFlow based framework for gradient boosting.pdf
+│   │   ├── XGBoost - A Scalable Tree Boosting System.pdf
+│   │   ├── XGBoost: A Scalable Tree Boosting System.pdf
+│   │   ├── XGBoost Optimization - Incremental Majorization-Minimization Optimization with Application to Large-Scale Machine Learning.pdf
+│   │   └── XGBoost - Supplementary.pdf
+│   ├── Cache-conscious Runtime Optimization for Ranking Ensembles.pdf
+│   ├── Decision Forests -  A Unified framework.pdf
+│   ├── Decision Jungles.pdf
+│   ├── Extremely randomized trees.pdf
+│   ├── Fast boosting using adversarial bandits.pdf
+│   ├── Fast Ranking with Additive Ensembles of Oblivious and Non-Oblivious Regression Trees.pdf
+│   ├── Fourier
+│   │   ├── Analysis-Of-Boolean-Functions-version1-01-by-Ryan-ODonnell.pdf
+│   │   ├── Byung-Hoon Park thesis.pdf
+│   │   ├── fast-fourier-basis.pdf
+│   │   └── orthogonal-decision-trees.pdf
+│   ├── Inductive Learninf of Tree-Based Regression Models - PhD Thesis.pdf
+│   ├── MAB
+│   │   ├── Busa - Accelerating AdaBoost using UCB.pdf
+│   │   ├── Busa - Fast boosting using adversarial bandits.pdf
+│   │   ├── Cost-sensitive decision tree learning using a multi-armed bandit framework.pdf
+│   │   ├── Dubout - Adaptive Sampling for Large Scale Boosting.pdf
+│   │   └── Dubout - Boosting with Maximum Adaptive Sampling.pdf
+│   ├── MARS - Multivariate Adaptive Regression Splines.pdf
+│   ├── Narrowing the Gap - Random Forests In Theory and In Practice.pdf
+│   ├── Online
+│   │   ├── Accurate Decision Trees for Mining High-speed Data Streams.pdf
+│   │   ├── Adaptive Random Forests for Evolving Data Stream Classification.pdf
+│   │   ├── Algorithms for Learning Regression Trees and Ensembles on Evolving Data Streams - Ekonomovska PhD Thesis.pdf
+│   │   ├── Algorithms for Learning Regression Trees and Ensembles on Evolving Data Streams - PhD Thesis.pdf
+│   │   ├── A Streaming Parallel Decision Tree Algorithm.pdf
+│   │   ├── Consistency of Online Random Forests.pdf
+│   │   ├── Decision Trees for Mining Data Streams Based on the Gaussian Approximation.pdf
+│   │   ├── Decision Trees for Mining Data Streams Based on the McDiarmid's Bound.pdf
+│   │   ├── Dynamic trees for streaming and massive data contexts.pdf
+│   │   ├── Efficient and Effective Decision Tree Construction on Streaming Data.pdf
+│   │   ├── Efficient and Effective Decision Tree Construction on Streaming Data.ps
+│   │   ├── Efficient Decision Tree Construction on Streaming Data.pdf
+│   │   ├── Extremely Fast Decision Tree.pdf
+│   │   ├── Fast  Perceptron Decision Tree Learning from Evolving Data Streams.pdf
+│   │   ├── iMauve - A Fast Incremental Model Tree Learner.pdf
+│   │   ├── Improving Hoeffding Trees - PhD Thesis.pdf
+│   │   ├── Incremental Learning of Linear Model Trees.pdf
+│   │   ├── Knowledge discovery in data streams with regression tree methods.pdf
+│   │   ├── Learning Model Trees from Data Streams - FIMT.pdf
+│   │   ├── Learning model trees from evolving data streams.pdf
+│   │   ├── Mining High-speed data steams - VFDT.pdf
+│   │   ├── Mining Time-Changing Data Streams - CVFDT.pdf
+│   │   ├── New Splitting Criteria for Decision Trees in Stationary Data Streams.pdf
+│   │   ├── On Incremental Learning for Gradient Boosting Decision Trees.pdf
+│   │   ├── On-line Random Forests.pdf
+│   │   ├── Online tree-based ensembles and option trees for regression on evolving data streams.pdf
+│   │   ├── Random Forests of Very Fast Decision Trees on GPU for Mining Evolving Big Data Streams.pdf
+│   │   ├── Slower Can Be Faster - The iRetis Incremental Model Tree Learner.pdf
+│   │   ├── TensorForest.pdf
+│   │   ├── The CART Decision Tree for Mining Data Streams.pdf
+│   │   ├── Universal consistency and minimax rates for online Mondrian Forests.pdf
+│   │   └── VHT Vertical Hoeffding Tree.pdf
+│   ├── QuickScorer - A Fast Algorithm to Rank Documents with Additive Ensembles of Regression Trees.pdf
+│   ├── QuickScorer - Presentation.pdf
+│   ├── Random Forests and Adaptive Nearest Neighbors.pdf
+│   ├── RFs
+│   │   ├── A Random Forest Guided Tour.pdf
+│   │   ├── Consistency of Online Random Forests.pdf
+│   │   ├── Consistency of Random Forests and Other Averaging Classifiers.pdf
+│   │   ├── Estimation of High Conditional Quantiles for Heavy Tailed Distributions.pdf
+│   │   ├── Exact Distributed Training - Random Forest with Billions of Examples.pdf
+│   │   ├── Generalized Random Forests.pdf
+│   │   ├── Globally Induced Forest - A Prepruning Compression Scheme.pdf
+│   │   ├── Information Forests.pdf
+│   │   ├── Local Linear Forests.pdf
+│   │   ├── Neural Random Forests.pdf
+│   │   ├── Nonparametric estimation of extreme conditional quantiles.pdf
+│   │   ├── Random Forests - Breiman.pdf
+│   │   ├── Robustness of random forests for regression.pdf
+│   │   └── Understanding variable importances in forests of randomized trees.pdf
+│   ├── Runtime Optimizations for Tree-based Machine Learning Models.pdf
+│   ├── Stacking Bagged and Boosted Forests for Effective Automated Classification.pdf
+│   ├── Uncertain
+│   │   ├── Analysis of a Random Forests Model .pdf
+│   │   ├── BART  Bayesian Additive Regression Trees - Journal.pdf
+│   │   ├── BART  Bayesian Additive Regression Trees - Slides.pdf
+│   │   ├── Bayesian Learning in Probabilistic Decision Trees.pdf
+│   │   ├── Confidence Intervals for Random Forests: The Jackknife and the Infinitesimal Jackknife.pdf
+│   │   ├── Decision Trees and Forests - A Probabilistic Perspective - Phd Thesis.pdf
+│   │   ├── Discrete Counts
+│   │   │   ├── Asymptotic properties of sample quantiles of discrete distributions.pdf
+│   │   │   ├── Generic Inference on Quantile and Quantile Effect Functions for Discrete Outcomes.pdf
+│   │   │   └── Quantiles for Counts.pdf
+│   │   ├── Distributed Bayesian Learning with Stochastic Natural-gradient Expectation Propagation and the Posterior Server.pdf
+│   │   ├── DTU: A Decision Tree for Uncertain Data.pdf
+│   │   ├── Estimating Class Probabilities in Random Forests.pdf
+│   │   ├── Evaluating Predictive Uncertainty Challenge.pdf
+│   │   ├── Extensions to Quantile Regression Forests for Very High-Dimensional Data.pdf
+│   │   ├── Hierarchical Baysian Nonpar models of language.pdf
+│   │   ├── Interpretable classifiers using rules and Bayesian analysis.pdf
+│   │   ├── Model evaluation, multi model ensembles and  structural error.pdf
+│   │   ├── Mondrian Forests
+│   │   │   ├── 5234-mondrian-forests-efficient-online-random-forests-supplemental.zip
+│   │   │   ├── A hierarchical Bayesian language model based on Pitman–Yor processes..pdf
+│   │   │   ├── Algorithm Runtime Prediction: Methods & Evaluation - (Variance in RFs).pdf
+│   │   │   ├── Ensembles on Random Patches - Reducing Memory Requirements.pdf
+│   │   │   ├── Kernel-Based Just-In-Time Learning for Passing Expectation Propagation Messages.pdf
+│   │   │   ├── Mondrian Forests - Efficient Online Random Forests.pdf
+│   │   │   ├── Mondrian Forests for Large-Scale Regression when Uncertainty Matters.pdf
+│   │   │   ├── Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles.pdf
+│   │   │   ├── The Mondrian Kernel.pdf
+│   │   │   ├── The Mondrian Process for Machine Learning.pdf
+│   │   │   └── The Mondrian Process.pdf
+│   │   ├── Nonparametric estimation of conditional quantiles using quantile regression trees.pdf
+│   │   ├── Probability Machines - Consistent Probability Estimation Using Nonparametric Learning Machines.pdf
+│   │   ├── Quantifying Uncertainty in Random Forests via Confidence Intervals and Hypothesis Tests.pdf
+│   │   ├── Quantile Regression Forests.pdf
+│   │   ├── Regression Trees for Streaming Data with Local Performance Guarantees.pdf
+│   │   ├── Streaming Quantiles
+│   │   │   └── Incremental Quantile Estimation for Massive Tracking.pdf
+│   │   ├── Top-down particle filtering for Bayesian decision trees.pdf
+│   │   ├── Transformation Forests.pdf
+│   │   └── Two-level quantile regression forests for bias correction in range prediction.pdf
+│   ├── Understanding variable importances in forests of randomized trees.pdf
+│   └── Variable importance in binary regression trees and forests.pdf
+├── Distributed Systems
+│   ├── Assignment of Different-Sized Inputs in MapReduce.pdf
+│   ├── Bandwidth Optimal All-reduce Algorithms for Clusters of  Workstations.pdf
+│   ├── Bridging the Gap: Towards Optimization Across Linear and Relational Algebra - Lara.pdf
+│   ├── Counting Triangles and the Curse of the Last Reducer.pdf
+│   ├── Delay-Tolerant Algorithms for Asynchronous Distributed Online Learning .pdf
+│   ├── Distributed Gaussian Processes.pdf
+│   ├── Distributed GraphLab: A Framework for Machine Learning and Data Mining in the Cloud.pdf
+│   ├── FlumeJava.pdf
+│   ├── Implicit Parallelism through Deep Language Embedding - Emma.pdf
+│   ├── Knowledge-vault-2014.kdd.pdf
+│   ├── Labyrinth - Compiling Imperative Control Flow to Parallel.pdf
+│   ├── Making Sense of Performance in Data Analytics Frameworks.pdf
+│   ├── Mesa-Google.pdf
+│   ├── MillWheel.pdf
+│   ├── Naiad: A Timely Dataflow System.pdf
+│   ├── On Incremental Maintenance of 2-hop Labeling of Graphs.pdf
+│   ├── Optimal Random Sampling from Distributed Streams Revisited.pdf
+│   ├── PowerGraph.pdf
+│   ├── Primitives for Large Scale Graph Processing.pdf
+│   ├── RABIT - A reloable allreduce and broadcast interface.pdf
+│   ├──  Reducer capacity and communication cost in MapReduce algorithms design.pdf
+│   ├── Resilient Distributed Datasets.pdf
+│   ├── Roofline - An Insightful Visual Performance Model for Multicore Architectures.pdf
+│   ├── RooflineVyNoYellow.pdf
+│   ├── Scaling Distributed Machine Learning with the Parameter Server.pdf
+│   ├── Self-Join Size Estimation in Large-scale Distributed Data Systems.pdf
+│   ├── Sparse Allreduce: Efficient Scalable Communication for Power-Law Data.pdf
+│   ├── Spinning Fast Iterative Data Flows.pdf
+│   ├── The Curse of Zipf and Limits to Parallelization: A look at the stragglers problem in MapReduce.pdf
+│   ├── thesaddestmoment.pdf
+│   └── The Stratosphere platform for big data analytics.pdf
+├── Evaluation
+│   ├── A survey on data preprocessing for data stream mining: Current status and future directions.pdf
+│   ├── Classifier Concept Drift Detection and the Illusion of Progress.pdf
+│   ├── Evaluating and Characterizing IncrementalLearning from Non-Stationary Data.pdf
+│   ├── Extensions to Statistical Comparisons of Classifiers over Multiple Data Sets.pdf
+│   ├── Issues in Evaluation of Stream Learning Algorithms.pdf
+│   ├── Measuring classifier performance: a coherent alternative to the area under the ROC curve.pdf
+│   ├── microaverage.pdf
+│   ├── On evaluating stream learning algorithms.pdf
+│   ├── On measuring the distance between histograms.pdf
+│   ├── On Over-fitting in Model Selection and Subsequent Selection Bias in Performance Evaluation.pdf
+│   ├── Prequential AUC - properties of the area under the ROC curve for data streams with concept drift.pdf
+│   ├── Somewhere Over the Rainbow - An Empirical Assessment of Quantitative Colormaps.pdf
+│   ├── Statistical Comparisons of Classifiers over Multiple Data Sets.pdf
+│   ├── The comparison and evaluation of forecasters.pdf
+│   └── What the F-measure doesn't measure.pdf
+├── Fairness
+│   ├── 50 Years of Test (Un)fairness - Lessons for Machine Learning.pdf
+│   └── Putting Fairness Principles into Practice: Challenges, Metrics, and Improvements.pdf
+├── FPGAs
+│   ├── A Performance and Energy Comparison of FPGAs, GPUs,  and Multicores for Sliding-Window Applications.pdf
+│   ├── ata  Search  and  Reorganization  using  FPGAs: Application  to  Spatial  Pointer-based  Data  Structures.pdf
+│   ├── Automatic Sliding Window Operation Optimization for FPGA-Based Computing Boards.pdf
+│   ├── Efficient Compilation of CUDA Kernels for High-Performance Computing on FPGAs.pdf
+│   ├── Fundamental Underpinnings of Reconfigurable Computing Architectures.pdf
+│   ├── High-Level Language Tools for Reconfigurable Computing.pdf
+│   ├── Reconfigurable Computing Architectures.pdf
+│   ├── Spatial - A Language and Compiler for Application Accelerators.pdf
+│   ├── Spatial Computation.pdf
+│   ├── Spatial Hardware Implementation for Sparse Graph Algorithms in GraphStep.pdf
+│   └── Spatial Presentation.pdf
+├── GAI
+│   ├── Building Machines That Learn and Think Like People.pdf
+│   ├── From Machine Learning to Machine Reasoning.pdf
+│   └── Probabilistic machine learning and artificial intelligence.pdf
+├── GANs
+│   ├── AdaGAN: Boosting Generative Models.pdf
+│   ├── Adversarial Learning for Neural Dialogue Generation.pdf
+│   ├── Adversarially Regularized Autoencoders for Generating Discrete Structures.pdf
+│   ├── Adversarial Machine Learning at Scale.pdf
+│   ├── A note on the evaluation of generative models.pdf
+│   ├── Approximation and Convergence Properties of Generative Adversarial Learning.pdf
+│   ├── Bayesian GAN.pdf
+│   ├── Categorical Reparameterization with Gumbel-Softmax.pdf
+│   ├── Do GANs actually learn the distribution? An empirical study.pdf
+│   ├── Explaining and Harnessing Adversarial Examples.pdf
+│   ├── Fisher GAN.pdf
+│   ├── GAN Tutorial NIPS - 2016.pdf
+│   ├── Generalization and Equilibrium in Generative Adversarial Nets (GANs).pdf
+│   ├── Generating Text via Adversarial Training.pdf
+│   ├── Generative Adversarial Networks.pdf
+│   ├── How (not) to Train your Generative Model - Scheduled Sampling, Likelihood, Adversary.pdf
+│   ├── Improved Techniques for Training GANs.pdf
+│   ├── Improved Training of Wasserstein GANs.pdf
+│   ├── Julia
+│   │   ├── 1701.00160_NIPStutorial.pdf
+│   │   ├── Adversarial Generation of Natural Language.pdf
+│   │   ├── Adversarial Learning for Neural Dialogue Generation.pdf
+│   │   ├── FACE AGING WITH CONDITIONAL GENERATIVE ADVERSARIAL NETWORKS.pdf
+│   │   ├── Modeling documents with Generative Adversarial Networks.pdf
+│   │   ├── SEGAN: Speech Enhancement Generative Adversarial Network.pdf
+│   │   └── Text Generation using Generative Adversarial Training.pdf
+│   ├── Language Generation with Recurrent Generative Adversarial Networks without Pre-training.pdf
+│   ├── Learning from Simulated and Unsupervised Images through Adversarial Training.pdf
+│   ├── Learning in Implicit Generative Models.pdf
+│   ├── MMD GAN: Towards Deeper Understanding of Moment Matching Network.pdf
+│   ├── SeqGAN - Sequence Generative Adversarial Nets with Policy Gradient.pdf
+│   ├── SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient.pdf
+│   ├── SeqGAN slides.pdf
+│   ├── The Concrete Distribution - A Continuous Relaxation of Discrete Random Variables.pdf
+│   ├── The Cramer Distance as a Solution to Biased Wasserstein Gradients.pdf
+│   ├── The Numerics of GANs.pdf
+│   ├── Towards Principled Methods for Training Generative Adversarial Networks.pdf
+│   └── Wasserstein GAN.pdf
+├── GPGPU
+│   ├── Data Transfer Matters for GPU Computing.pdf
+│   ├── GPU-acceleration for Large-scale Tree Boosting.pdf
+│   ├── GPU Asynchronous Stochastic Gradient Descent to Speed Up Neural Network Training.pdf
+│   ├── Implementing decision trees and forests on a GPU.pdf
+│   ├── Learning Random Forests on the GPU.pdf
+│   └── Performance models for CPU-GPU data transfers.pdf
+├── Graph Processing
+│   ├── Adaptive Subgradient Methods for Online Learning and Stochastic Optimization.pdf
+│   ├── A Measure of Similarity Between Graph Vertices: Applications to Synonym Extraction and Web Searching.pdf
+│   ├── A Survey of Link Prediction in Complex Networks - 2017.pdf
+│   ├──  Balanced label propagation for partitioning massive graphs.pdf
+│   ├── Current and Future Challenges in Minining Large Networks.pdf
+│   ├── Debunking the Myths of Influence Maximization - An In-Depth Benchmarking Study.pdf
+│   ├── DeepWalk- Online Learning of Social Representations.pdf
+│   ├── Graph Mining: Laws, Generators, and Algorithms - Survey.pdf
+│   ├── GRaph Similarity and Matching - PhD Thesis.pdf
+│   ├── Graph Sparsification Approaches for Laplacian Smoothing.pdf
+│   ├── Graph Twiddling in a MapReduce world.pdf
+│   ├── High Quality SimRank-Based Similarity Search.pdf
+│   ├── Holographic Embeddings of Knowledge Graphs.pdf
+│   ├── Inductive Representation Learning on Large Graphs.pdf
+│   ├── Large Scale Distributed Semi-Supervised Learning Using Streaming Approximation.pdf
+│   ├── LINE- Large-scale Information Network Embedding.pdf
+│   ├── Link Prediction in Complex Networks: A Survey.pdf
+│   ├── Link to Counting Triangles and the Curse of the Last Reducer.pdf
+│   ├── NED - An Inter-Graph Node Metric Based On Edit Distance.pdf
+│   ├── Online Topic-Aware Influence Maximization.pdf
+│   ├── On the uniform generation of random graphs with prescribed degree sequences.pdf
+│   ├──  Priors on exchangeable directed graphs.pdf
+│   ├── Random graphs with a given degree sequence.pdf
+│   ├── Random-Walk Computation of Similarities between Nodes of a Graph with Application to Collaborative Recommendation.pdf
+│   ├── Revisiting power-law distributions in spectra of real world networks.pdf
+│   ├── RoleSim - Axiomatic Ranking of Network Role Similarity.pdf
+│   ├── RoleSim - Scalable and Axiomatic Ranking of Network Role Similarity - Journal.pdf
+│   ├── Similarity Measure for Social Networks– A Brief Survey.pdf
+│   ├── SimRank - A Measure of Structural-Context Similarity.pdf
+│   ├── Statistical Foundation of Spectral Graph Theory.pdf
+│   ├── The Link Prediction Problem in Bipartite Networks.pdf
+│   ├── The Ubiquity of Large Graphs and Surprising Challenges of Graph Processing.pdf
+│   ├── Trust-Based Recommendation Based on Graph Similarity.pdf
+│   ├── Vasia thesis.pdf
+│   ├── Vertex similarity in networks.pdf
+│   └── Vertex similarity in networks - Survey.pdf
+├── Historical - Seminal
+│   ├── An essay towards solving a problem in the doctrine of chances - Bayes.pdf
+│   ├── Bagging Predictors.pdf
+│   ├── Bigtable A Distributed Storage System for Structured Data.pdf
+│   ├── Centrality in Social Networks.pdf
+│   ├── Communicating Sequential Processes.pdf
+│   ├── Conditional expectation and unbiased sequential estimation.pdf
+│   ├── Constructing optimal binary decision trees is NP-complete.pdf
+│   ├── Greedy function Approximation - A gradient Boosting Machine.pdf
+│   ├── Hierarchical Dirichlet processes - Journal.pdf
+│   ├── Hierarchical Dirichlet processes.pdf
+│   ├── How to Write a 21st Century Proof .pdf
+│   ├── Lamport - How to write a proof.pdf
+│   ├── Learning Decision Lists.pdf
+│   ├── Learning in Neural Networks A statistical perspective.pdf
+│   ├── Neural Networks and the Bias-Variance Dilemma.pdf
+│   ├── parnas1.pdf
+│   ├── Ramsey - Truth and Probability.pdf
+│   ├── Random Search for Hyper-Parameter Optimization.pdf
+│   ├── Recursive functions of symbolic expressions and their computation by machine.pdf
+│   ├── Shannon - An Algebra For Theoretical Genetics.pdf
+│   ├── Shannon - A Symbolic Analysis of Relay and Switching Circuits.pdf
+│   ├── Shannon - The Bandwagon.pdf
+│   ├── The Google File System.pdf
+│   └── You cant play 20 questions with nature and win _ projective comm.pdf
+├── HPC
+│   ├── Accurately Measuring Overhead, Commucation Time.pdf
+│   ├── GOOMPI - A Generic Object Orien ted Message Passing Interface.pdf
+│   ├── Link to Kylix - A Sparse Allreduce for Commodity Clusters.pdf
+│   ├── MPI Reduction Operations for Sparse Floating-Point Data.pdf
+│   └── Optimizations of Collective Communication Operations in MPICH.pdf
+├── Hyperparameter Optimization
+│   ├── Algorithms for Hyper-Parameter Optimization.pdf
+│   ├── A Review of Bayesian Optimization.pdf
+│   ├──  Collaborative hyperparameter tuning .pdf
+│   ├── Efficient Hyperparameter Optimization and Infinitely Many Armed Bandits.pdf
+│   ├── FREEZE-THAW  BAYESIAN  OPTIMIZATION.pdf
+│   ├── Gradient-based Hyperparameter Optimization through Reversible Learning.pdf
+│   ├── Practical Bayesian Optimization of Machine Learning Algorithms.pdf
+│   ├── Random Search for Hyper-Parameter Optimization.pdf
+│   └── Towards an Empirical Foundation for Assesing Bayesian Optimization of Hyperparameters.pdf
+├── Industry
+│   ├── A Dirty Dozen - Twelve Common Metric Interpretation Pitfalls in Online Controlled Experiments.pdf
+│   ├── Agile Architecture Documentation.pdf
+│   ├── Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective.pdf
+│   ├── Controlled experiments on the web survey and practical guide.pdf
+│   ├── Counterfactual Reasoning and Learning Systems: The Example of Computational Advertising.pdf
+│   ├── data-driven.pdf
+│   ├── Data Readiness Levels.pdf
+│   ├── floss-license-slide.pdf
+│   ├── Practical Lessons from Predicting Clicks on Ads at Facebook.pdf
+│   ├── Puzzling Outcomes In Controlled Experiments.pdf
+│   ├── The Greedy Miser: Learning under Test-time Budgets.pdf
+│   ├── The Human Kernel.pdf
+│   ├── The Tail at Scale.pdf
+│   ├── Variable selection by association rules for customer churn prediction of multimedia on demand.pdf
+│   └── Web experimenters rules of thumb.pdf
+├── Information Theory
+│   ├── Directed Information and Conditional Mutual Information.pdf
+│   └── The Relation between Granger Causality and Directed Information Theory - A Review.pdf
+├── Interpretability
+│   ├── A Unified Approach to Interpreting Model Predictions.pdf
+│   ├── Distilling a Neural Network Into a Soft Decision Tree.pdf
+│   ├── Local Interpretable Model-Agnostic Explanations - LIME\012.pdf
+│   ├── The Doctor Just Won’t Accept That.pdf
+│   └── Understanding Black-box Predictions via Influence Functions.pdf
+├── Introductory
+│   ├── A few useful things about machine learing.pdf
+│   ├── An Introduction to Variable and Feature Selection.pdf
+│   ├── A practical guide to SVM classification.pdf
+│   ├── Bandits
+│   │   └── A Tutorial On Thompson Samping.pdf
+│   ├── Bayesian Statistics & Inference
+│   │   ├── An introduction to MCMC for ML
+│   │   ├── A tutorial on Bayesian optimization of expensive cost functions.pdf
+│   │   ├── bayes-classifiers.pdf
+│   │   ├── Bayesian Basics.pdf
+│   │   ├── Bayesian nonparametrics and the probabilistic approach to modelling.pdf
+│   │   ├── Bayesian Nonparametrics.pdf
+│   │   ├── Confidence Intervals vs Bayesian Intervals.pdf
+│   │   ├── Dirichlet distribution, process and process mixture.pdf
+│   │   ├── Dirichlet Processes and Hierarchical Dirichlet Processes Tutorial.pdf
+│   │   ├── Dirichlet Processes - Tutorial and practical course.pdf
+│   │   ├── Gaussian mixture models and the EM algorithm.pdf
+│   │   ├── Gaussian Processes for Big Data.pdf
+│   │   ├── gp-neural-nets15.pdf
+│   │   ├── How to become a Bayesian.pdf
+│   │   ├── lect1bayes.pdf
+│   │   ├── Markov chain Monte Carlo - ML SumSch09.pdf
+│   │   ├── MCMC Revolution.pdf
+│   │   ├── mlss15future.pdf
+│   │   ├── Predictive distributions.pdf
+│   │   └── The Chinese Restaurant Process.pdf
+│   ├── Canny - Machine Learning at the Limit.pdf
+│   ├── Concetration Bounds
+│   │   ├── Five essential tools for the analysis of ranndmized algorithms.pdf
+│   │   ├── hoeffding.pdf
+│   │   └── Probabilistic Analysis and Randomized Algorithms - Lecture Notes.pdf
+│   ├── Contextual bandit models for personalized recommendation.pdf
+│   ├── cs-cheat-sheet.pdf
+│   ├── Deep learning
+│   │   ├── GAN Tutorial NIPS - 2016.pdf
+│   │   ├── KDD2014-deep-learning-tutorial.pdf
+│   │   ├── Large Scale Deep Learning - Google.pdf
+│   │   ├── NIPS 2016 Tutorial - Generative Adversarial Networks - Report.pdf
+│   │   └── RNNs
+│   │       ├── cs224n- GRU - LSTM - Stanford.pdf
+│   │       └── cs224n-RNNs for NLP - Stanford.pdf
+│   ├── Distributed Systems
+│   │   ├── bigtable-slides.pdf
+│   │   ├── Distributed Consensus.pdf
+│   │   ├── DistributedDM.pdf
+│   │   ├── gfs-hdfs.pdf
+│   │   ├── MapReduce - A two page explanation.pdf
+│   │   ├── Parallelism and Performance.pdf
+│   │   └── Scalability.pdf
+│   ├── Expectation Propagation Summary.pdf
+│   ├── Gaussian Processes
+│   │   └── Flexible and efficient Gaussian process models for machine learning.pdf
+│   ├── GPGPU
+│   │   └── Parallel Reduction.pdf
+│   ├── Gradient Boosting
+│   │   ├── A Gentle Introduction to Gradient Boosting.pdf
+│   │   ├── A working guide to boosted regression trees.pdf
+│   │   ├── Boosted Tree Introduction.pdf
+│   │   └── Gradient boosting machines - a tutorial.pdf
+│   ├── Graphs
+│   │   ├── A Tutorial on Spectral Clustering.pdf
+│   │   ├── Graph Laplacian.pdf
+│   │   ├── Graphs in machine learning: an introduction.pdf
+│   │   ├── SNAP-ICWSM14.pdf
+│   │   └── Spectral Clustering Tutorial.pdf
+│   ├── Information Theory
+│   │   ├── An introduction to information theory and entropy.pdf
+│   │   └── PROBABILITY DISTRIBUTIONS AND MAXIMUM ENTROPY.pdf
+│   ├── LateX
+│   │   ├── Not So Short Introduction to LateX.pdf
+│   │   └── Short Math Guide for LateX.pdf
+│   ├── Learning for Contextual Bandits.pdf
+│   ├── Learning with Large Datasets - Botou.pdf
+│   ├── Mathematics
+│   │   ├── Argmax-max calculus.pdf
+│   │   ├── Basic properties of the soft maximum.pdf
+│   │   ├── Computability in Mathematics-Turing's Legacy.pdf
+│   │   ├── Derivatives of Piecewise Defined Functions.pdf
+│   │   ├── Math for ML.pdf
+│   │   └── The Matrix Cookbook.pdf
+│   ├── NLP
+│   │   ├── Information_Extraction_and_Named_Entity_Recognition.pptx
+│   │   └── LDA Topic Modelling.pdf
+│   ├── Optimization
+│   │   ├── Boyd - Subgradients.pdf
+│   │   ├── CoCoA presentation.pdf
+│   │   ├── Convex Optimization Pre-requisites.pdf
+│   │   ├── ConvexProgramDuality.pdf
+│   │   ├── Introduction to Convex Optimization for Machine Learning.pdf
+│   │   ├── KKT Conditions.pdf
+│   │   ├── Lagrangian Duality for Dummies.pdf
+│   │   ├── Logistic Regression and Newton-Raphson.pdf
+│   │   ├── Loss Functions.pdf
+│   │   ├── Optimization, Support Vector Machines, and Machine Learning.pdf
+│   │   ├── Proximity Operator.pdf
+│   │   ├── Rates of Convergence and Newton's Method.pdf
+│   │   └── Subgradient Method.pdf
+│   ├── Parallel Programming
+│   │   └── Parallel Patterns.pdf
+│   ├── Probability
+│   │   ├── Hoeffding inequality.pdf
+│   │   ├── Limit Theorems.pdf
+│   │   └── Some notes on asymptotic theory in probability.pdf
+│   ├── Programming
+│   │   ├── How Computers Handle Numbers - Notes.pdf
+│   │   ├── How Computers Handle Numbers.pdf
+│   │   ├── MPI - Composite Types and Language Standards.pdf
+│   │   ├── pablos_solid_ebook.pdf
+│   │   ├── Scala-What-Are-Macros-Good-For.pdf
+│   │   ├── Smart Pointers.pdf
+│   │   └── What every programmer should know about memory.pdf
+│   ├── R
+│   │   └── tidy-data.pdf
+│   ├── RDBMS-final.pdf
+│   ├── Relevance Vector Machines Explained.pdf
+│   ├── Statistics
+│   │   ├── A Tutorial on Fisher Information.pdf
+│   │   ├── A Tutorial on Principal Component Analysis.pdf
+│   │   ├── Bayes Error and Bayes Classifier.pdf
+│   │   ├── Bayes Error.pdf
+│   │   ├── CMU - Probability and Statistics
+│   │   │   ├── 10 - Paramteric Inference II - Maximum Likelihood.pdf
+│   │   │   ├── 11 - Bayesian Inference.pdf
+│   │   │   ├── 12 - Linear Regression.pdf
+│   │   │   ├── 13 - Decision Theory.pdf
+│   │   │   ├── 1 - Probability.pdf
+│   │   │   ├── 2 - Random Variables.pdf
+│   │   │   ├── 36-325_725: Probability and Statistics I, Fall 2001.html
+│   │   │   ├── 3 - Expectation.pdf
+│   │   │   ├── 4 - Inequalities.pdf
+│   │   │   ├── 5 - Convergence of RVs.pdf
+│   │   │   ├── 6- Inference.pdf
+│   │   │   ├── 7 - Distribution Functions and Functionals.pdf
+│   │   │   ├── 8 - Maximum Likelihood.pdf
+│   │   │   └── 9 - Paramteric Inference I.pdf
+│   │   ├── Coping with Copulas.pdf
+│   │   ├── Elements of Sequential Monte Carlo.pdf
+│   │   ├── (Exponentiated) Stochastic Gradient Descent for L1 Constrained Problems.pdf
+│   │   ├── Gaussian Moment Generating Function.pdf
+│   │   ├── Lec-QReg-slide_spring 2010.pdf
+│   │   ├── Lecture notes on ridge regression.pdf
+│   │   ├── lme4 - Mixed Effects Models - Longitudinal.pdf
+│   │   ├── math_review_handout.pdf
+│   │   ├── Mixed Effects - Hierarchical Modeling - LME4.pdf
+│   │   ├── Nuzzo - Nature - p-values.pdf
+│   │   ├── principal_components.pdf
+│   │   ├── probability_cheatsheet.pdf
+│   │   ├── Quantile methods.pdf
+│   │   ├── Quantile Regression - An Introduction.pdf
+│   │   ├── Quantile Regression - Lecture Notes.pdf
+│   │   ├── Regularization - Ridge - LASSO.pdf
+│   │   └── Weakly informative priors.pdf
+│   ├── Streaming
+│   │   ├── Streaming Algorithms 1.pdf
+│   │   ├── Streaming Algorithms 2.pdf
+│   │   └── streaming_data_mining.pdf
+│   ├── Survival Analysis
+│   │   └── Probability Models in Econometrics.pdf
+│   ├── Top 10 algorithms in data mining.pdf
+│   └── Vowpal Wabbit.pdf
+├── Large-scale ML
+│   ├── A survey of methods for distributed machine learning.pdf
+│   ├── Big Learning with Bayesian Methods.pdf
+│   ├── Distributed DL
+│   │   ├── Asynchronous Methods for Deep Reinforcement Learning.pdf
+│   │   ├── Deep learning with COTS HPC systems.pdf
+│   │   ├── Distributed Deep Learning Using Synchronous Stochastic Gradient Descent.pdf
+│   │   ├──  Distributed Training of Deep Neural Networks with Theoretical Analysis: Under SSP Setting.pdf
+│   │   ├── No More Pesky Learning Rates.pdf
+│   │   └── Scalable deel learning on distributed GPUs with a GPU-optimized PS.pdf
+│   ├── Distributed Learning Systems
+│   │   ├── A Berkeley View of Systems Challenges for AI.pdf
+│   │   ├── Accelerating Machine Learning on Sparse Datasetswith a Distributed Memory Vector Architecture.pdf
+│   │   ├── A Comparison of Lasso-type Algorithms on Distributed Parallel ML Platforms.pdf
+│   │   ├── A comparison of platforms for Implementing and Running Very large scale Machine learning Algorithms.pdf
+│   │   ├── Addressing the straggler problemfor iterative convergent parallel ML.pdf
+│   │   ├── Analysis of High-Performance Distributed ML at Scale through Parameter Server Consistency Models.pdf
+│   │   ├── Angel - a new large-scale machine learning system.pdf
+│   │   ├── A Reliable Effective Terascale Linear Learning System.pdf
+│   │   ├── Communication Complexity of Distributed Convex Learning and Optimization.pdf
+│   │   ├── Communication Efficient Distributed Machine Learning with the Parameter Server.pdf
+│   │   ├── Compressed linear algebra for large-scale machine learning (Case Conflict (1)).pdf
+│   │   ├── Compressed linear algebra for large-scale machine learning.pdf
+│   │   ├── Consistency Models for Distributed ML with Theoretical Guarantees.pdf
+│   │   ├──  Data Driven Resource Allocation for Distributed Learning.pdf
+│   │   ├── Fault Tolerance in Iterative-Convergent Machine Learning.pdf
+│   │   ├── FlexPS - Flexible Parallelism Control in Parameter Server Architecture.pdf
+│   │   ├── GraphLab - A New Framework For Parallel Machine Learning.pdf
+│   │   ├── Horovod - fast and easy distributed deep learning in TensorFlow.pdf
+│   │   ├── Kylix - A Sparse Allreduce for Commodity Clusters.pdf
+│   │   ├── Langford - Parallel Learning.pdf
+│   │   ├── Large-Scale Machine Learning at Twitter.pdf
+│   │   ├── Link to RABIT - A reloable allreduce and broadcast interface.pdf
+│   │   ├── MXNET-MPI - Embedding  MPI parallelism in Parameter Server Task Model for scaling Deep Learning.pdf
+│   │   ├── On Model Parallelization and Scheduling Strategies for Distributed Machine Learning.pdf
+│   │   ├── Orpheus - Efficient Distributed Machine Learning via Systemand Algorithm Co-design.pdf
+│   │   ├── Parameter Hub - A Rack-Scale Parameter Server for Distributed Deep Neural Network Training.pdf
+│   │   ├── PD2F Running a Parameter Server within a Distributed Datafllow Framework.pdf
+│   │   ├── Petuum:  A New Platform for Distributed Machine Learning on Big Data.pdf
+│   │   ├── Project Adam - Building an Efficient and Scalable  Deep Learning Training System.pdf
+│   │   ├── Scaling distributed machine learning with the parameter server.pdf
+│   │   ├── SketchML - Accelerating Distributed Machine Learning with Data Sketches.pdf
+│   │   ├── Smola - 3 things for large scale ML.pdf
+│   │   ├── SPARCML - High-Performance Sparse Communicationfor Machine Learning.pdf
+│   │   ├── Sparse Allreduce thesis.pdf
+│   │   ├── Stale Synchronous Parallel Iterations.pdf
+│   │   ├── System Design for Large Scale Machine Learning.pdf
+│   │   ├── Tensorflow.pdf
+│   │   ├── TFX - A TensorFlow-Based Production-Scale Machine Learning Platform.pdf
+│   │   ├── Theano - A Python framework for fast computation of mathematical expressions.pdf
+│   │   ├── Toward Understanding the Impact of Staleness in Distributed Machine Learning .pdf
+│   │   └── WRAP-efficient-task-based-all-reduce-machine-learning-applications-Li-2017.pdf
+│   ├── Distributed-Parallel Optimization
+│   │   ├── Accelerated Gradient Methods for Stochastic Optimization and Online Learning.pdf
+│   │   ├── Communication-Efficient Distributed Dual Coordinate Ascent  -CoCoA.pdf
+│   │   ├── Communication Lower Bounds for DistributedConvex Optimization: Partition Data on Features.pdf
+│   │   ├── Distributed Matrix Completion and Robust Factorization.pdf
+│   │   ├── Gradient Diversity Empowers Distributed Learning.pdf
+│   │   ├── Improved Asynchronous Parallel Optimization Analysis for Stochastic Incremental Methods .pdf
+│   │   ├── Large Scale Kernel Learning using Block Coordinate Descent.pdf
+│   │   ├── Large-scale L-BFGS using MapReduce.pdf
+│   │   ├── Large-scale Machine Learning with Stochastic Gradient Descent.pdf
+│   │   ├──  On the Optimality of Averaging in Distributed Statistical Learning.pdf
+│   │   ├── Optimal Distributed Online Prediction Using Mini-Batches.pdf
+│   │   ├── Parallel and Distributed Block-Coordinate Frank-Wolfe Algorithms.pdf
+│   │   ├── Parallel coordinate descent for l1-regularized loss minimization.pdf
+│   │   ├── Parallel coordinate descent methods for big data optimization.pdf
+│   │   ├── Parallelized Stochastic Gradient Descent.pdf
+│   │   ├── Random Search for Hyper-Parameter Optimization.pdf
+│   │   └── Robust Large-Scale Machine Learning in the Cloud.pdf
+│   ├──  Divide and Conquer Kernel Ridge Regression: A Distributed Algorithm with Minimax Optimal Rates .pdf
+│   ├── Efficient Learning
+│   │   ├── An efficient distributed learning algorithm based on effective local functional approximations .pdf
+│   │   ├── Auto-Differentiating Linear Algebra.pdf
+│   │   ├── Bag of Little Boostraps.pdf
+│   │   ├── BIDMach: Large-scale Learning with Zero Memory Allocation.pdf
+│   │   ├── Big Data Analytics with Small Footprint: Squaring the Cloud.pdf
+│   │   ├── CuMF: scale matrix factorization using just ONE machine with GPUs.pdf
+│   │   ├── Deep Gradient Compression.pdf
+│   │   ├── Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training.pdf
+│   │   ├── Efficient Projections onto the L1-Ball for Learning in High Dimensions.pdf
+│   │   ├── Exploiting  iterative-ness  for  parallel  ML  computations.pdf
+│   │   ├── Fast Cross-Validation for Incremental Learning.pdf
+│   │   ├── Fast Cross-Validation via Sequential Testing.pdf
+│   │   ├── Fast Exact Multiplication by the Hessian.pdf
+│   │   ├──  Fast methods for training Gaussian processes on large data sets.pdf
+│   │   ├── High Performance Machine Learning through Codesign and Rooflining.pdf
+│   │   ├── Interactive machine learning using BIDMach.pdf
+│   │   ├── Kylix - A Sparse Allreduce for Commodity Clusters.pdf
+│   │   └── Stochastic Learning.pdf
+│   ├── Heads-Join - Efficient Earth Mover's Distance Join on Hadoop.pdf
+│   ├── Large-Scale Probabilistic Models
+│   │   ├── Big Learning with Bayesian Methods.pdf
+│   │   ├── Collapsed Gibbs Sampling for Latent Dirichlet Allocation on Spark.pdf
+│   │   ├── Distributed Variational Inference in Sparse Gaussian Process Regression and Latent Variable Models.pdf
+│   │   ├──  Embarrassingly Parallel Variational Inference in Nonconjugate Models.pdf
+│   │   ├── Large-Scale Optimization Algorithms for Sparse Conditional Gaussian Graphical Models.pdf
+│   │   ├── LightLDA: Big Topic Models on Modest Compute Clusters.pdf
+│   │   └── Patterns of Scalable Bayesian Inference.pdf
+│   ├── Matrix Factorization
+│   │   ├── Large-Scale Matrix Factorization with Distributed Stochastic Gradient Descent .pdf
+│   │   ├── Matrix Compression.pdf
+│   │   └── Stochastic Subsampling for Factorizing Huge Matrices.pdf
+│   ├── Model Serving
+│   │   └── Clipper - A Low-Latency Online Prediction Serving System.pdf
+│   ├── On Model Parallelization and Scheduling Strategies for Distributed Machine Learning.pdf
+│   ├── Recent Advances of Large-Scale Linear Classification.pdf
+│   ├──  Robust, scalable and fast bootstrap method for analyzing large scale data.pdf
+│   ├── Scalable Nearest Neighbor Algorithms for High Dimensional Data.pdf
+│   ├── Scalable Simple Random Sampling and Stratified Sampling.pdf
+│   ├── Sources of Variability in Large-scale Machine Learning Systems.pdf
+│   ├── Sparseness of Support Vector Machines.pdf
+│   ├── Speeding Up Distributed Machine Learning using Codes.pdf
+│   ├──  Splash: User-friendly Programming Interface for Parallelizing Stochastic Algorithms.pdf
+│   ├── Synthetic Vectorized Datasets for Large Scale Machine Learning Experiments.pdf
+│   ├── System Design
+│   │   ├── A new look at the system, algorithm and theory foundations of Distributed ML.pdf
+│   │   ├──  Strategies and Principles of Distributed Machine Learning on Big Data.pdf
+│   │   ├── The Tail at Scale.pdf
+│   │   └── The Tradeoffs of Large Scale Learning.pdf
+│   ├── Taming the Monster: A Fast and Simple Algorithm for Contextual Bandits.pdf
+│   └── Tensor Decompositions for Learning Latent Variable Models.pdf
+├── Learning Theory
+│   └── Stability and Generalization.pdf
+├── Learning to Rank
+│   ├── Learning to rank using multiple classification and gradient boosting.pdf
+│   ├── Online Learning from Click Data for Sponsored Search.pdf
+│   └── Online Learning of Optimally Diverse Rankings.pdf
+├── ML Ethics
+│   └── Subjective Fairness.pdf
+├── ML Meta-research
+│   ├── Do We Need Hundreds of Classifiers to Solve Real World Classification Problems.pdf
+│   ├── OpenML Benchmarking Suites and the OpenML100.pdf
+│   └── Single versus Double Blind Reviewing at WSDM 2017.pdf
+├── ML Software engineering
+│   ├── 09-Data-Management-in-Machine-Learning.pdf
+│   ├── A Berkeley View of Systems Challenges for AI.pdf
+│   ├── An Approach to Software Testing of Machine Learning Applications.pdf
+│   ├── API design for machine learning software: Experienence from the scikit-learn project.pdf
+│   ├── Data Management Challenges in Production Machine Learning.pdf
+│   ├── Data Management Challenges in Production Machine Learning - Tutorial Description.pdf
+│   ├── Designing Data-Intensive Applications
+│   │   ├── Designing Data-Intensive Applications - Martin Kleppmann.azw3
+│   │   ├── Designing Data-Intensive Applications - Martin Kleppmann.jpg
+│   │   └── Designing Data-Intensive Applications - Martin Kleppmann.opf
+│   ├── Developing Bug-Free Machine Learning Systems With Formal Mathematics.pdf
+│   ├── E2E arguments in software design.pdf
+│   ├── Engineering scikit-learn.pdf
+│   ├── Hidden Technical Debt in Machine Learning Systems.pdf
+│   ├── Link to The Tail at Scale.pdf
+│   ├── Machine Learning in Practice.pdf
+│   ├── Machine Teaching - A New Paradigm for Building Machine Learning Systems.pdf
+│   ├── ML - The high interest credit card of technical debt.pdf
+│   ├── NIPS - Nuts and Bolts of DL - Andrew Ng.pdf
+│   ├── On Challenges in Machine Learning Model Management.pdf
+│   ├── On Testing Non-testable Programs.pdf
+│   ├── Rules of Machine Learning - Best Practices for ML Engineering.pdf
+│   ├── Testing MCMC code.pdf
+│   ├── Testing Scientific Software - A Systematic Literature Review.pdf
+│   ├── TFX - A TensorFlow-Based Production-Scale Machine Learning Platform.pdf
+│   ├── The challenges of bring ML to the masses.pdf
+│   ├── Unit Tests for Stochastic Optimization.pdf
+│   └── What’s your ML Test Score? A rubric for ML production systems.pdf
+├── ML Systems
+│   ├── Compiling machine learning programs via high-level tracing.pdf
+│   ├── Flexible Primitives for Distributed Deep Learning in Ray.pdf
+│   ├── Ray - A Distributed Framework for Emerging AI Applications.pdf
+│   ├── TVM.pdf
+│   └── Vowpal Wabbit Presentation.pdf
+├── Music
+│   ├── Current Challenges and Visions in Music Recommender Systems Research.pdf
+│   ├── MIRrors: Music Information Research reflects on its future.pdf
+│   ├── Modeling Genre with the Music Genome Project: Comparing Human-Labeled Attributes and Audio Features.pdf
+│   └── The Quest for Ground Truth in Musical Artist Similarity.pdf
+├── NLP
+│   ├── Accurate Methods for the Statistics of Surprise and Coincidence - Ted Dunning.pdf
+│   ├── A Neural Conversational Model.pdf
+│   ├──  A Neural Network Approach to Context-Sensitive Generation of Conversational Responses.pdf
+│   ├── An experimental study of graph connectivity for unsupervised word sense disambiguation.pdf
+│   ├── An overview of nonparametric bayesian models and applications to natural language processing.pdf
+│   ├── Bayesian word sense induction.pdf
+│   ├── BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding.pdf
+│   ├── Comparing corpora using frequency profiling.pdf
+│   ├── Convolutional Neural Networks for Sentence Classification.pdf
+│   ├── Corpora
+│   │   ├── Google Books corpus.pdf
+│   │   └── SQuAD - 100,000 Questions for Machine Comprehension of Text.pdf
+│   ├── Evaluation Metrics For Language Models.pdf
+│   ├── Hypernymy
+│   │   ├── Chasing Hypernyms in Vector Spaces with Entropy.pdf
+│   │   ├── Directional distributional similarity for lexical inference.pdf
+│   │   ├── Distributional Lexical Entailment by Topic Coherence.pdf
+│   │   ├── Do Supervised Distributional Methods Really Learn Lexical Inference Relations.pdf
+│   │   ├── Evaluating the Utility of Vector Differences for Lexical Relation Learning.pdf
+│   │   ├── How we BLESSed distributional semantic evaluation.pdf
+│   │   ├── hypernyms_lstm.pdf
+│   │   ├── Identifying hypernyms in distributional semantic spaces.pdf
+│   │   ├── Learning Hypernymy over Word Embeddings.pdf
+│   │   ├── Learning Semantic Hierarchies via Word Embeddings.pdf
+│   │   ├── Learning Term Embeddings for Hypernymy Identification.pdf
+│   │   ├── Order-Embeddings of Images and Language.pdf
+│   │   └── USAAR-WLV - Hypernym Generation with Deep Neural Nets.pdf
+│   ├── Improving distributional similarity with lessons learned from word embeddings.pdf
+│   ├── Injecting Logical Background Knowledge into Embeddings for Relation Extraction.pdf
+│   ├── Language Models - Evaluation and smoothing.pdf
+│   ├── Learning Distributed Representations of Sentences from Unlabelled Data.pdf
+│   ├── Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation.pdf
+│   ├── Learning Semantic Similarity.pdf
+│   ├── Learning to select data for transfer learning with Bayesian Optimization.pdf
+│   ├── Measures for corpus similarity and homogeneity (Case Conflict).pdf
+│   ├── Measures for corpus similarity and homogeneity.pdf
+│   ├── Nonparametric Bayesian Word Sense Induction.pdf
+│   ├── Nonparametric Bayesian Word Sense Induction - Presentation.pdf
+│   ├── Normalized (Pointwise) Mutual Information in Collocation Extraction.pdf
+│   ├── On the State of the Art of Evaluation in Neural Language Models.pdf
+│   ├── Ontology Learning
+│   │   ├── 50-something years of work on collocations.pdf
+│   │   ├── A Graph-based Algorithm for Inducing Lexical Taxonomies from Scratch.pdf
+│   │   ├── Asymmetric Association Measures.pdf
+│   │   ├── Modelling Ontology Evaluation and Validation.pdf
+│   │   ├── OntoLearn Reloaded - A Graph-based Algorithm for Taxonomy Induction.pdf
+│   │   ├── Ontology Learning from Text - A Look Back and into the Future.pdf
+│   │   ├── Small Survey - Departing the ontology learning layer cake.pdf
+│   │   └── Valerdi_2011.pdf
+│   ├── Pointwise Mutual Information Study.pdf
+│   ├── Reasoning about Entailment with Neural Attention.pdf
+│   ├── Recent Trends in Deep Learning Based Natural Language Processing.pdf
+│   ├── Representing meaning with a combination of logical form and vectors.pdf
+│   ├──  Semantics, Modelling, and the Problem of Representation of Meaning -- a Brief Survey of Recent Literature.pdf
+│   ├── Semeval 207 Task 2 - Word Sense Induction.pdf
+│   ├── Similarity Metrics For Query Document.pdf
+│   ├── Some current quantitative problems in corpus linguistics and a sketch of some solutions.pdf
+│   ├── Steyvers_et_al-2005-Cognitive_Science.pdf
+│   ├── Strategies for Training Large Scale Neural Network Language Models.pdf
+│   ├── Teaching Machines to Read and Comprehend.pdf
+│   ├── TextGraphs2013.pdf
+│   ├── Text understanding from scratch.pdf
+│   ├── Topic Models
+│   │   ├── 1206.3298v2.pdf
+│   │   ├── 2466-hierarchical-topic-models-and-the-nested-chinese-restaurant-process.pdf
+│   │   ├── A Time-based Collective Factorization for Topic Discovery and Monitoring in News.pdf
+│   │   ├── Decoupling Sparsity and Smoothness in the Discrete HDP.pdf
+│   │   ├── Empirical Study of Topic Modeling in Twitter.pdf
+│   │   ├── Fast Topic Discovery From Web Search Streams.pdf
+│   │   ├── Hashtag Graph based Topic Model for Tweet Mining.pdf
+│   │   ├── Hierarchical Neural Language Models for Joint Representation of Streaming Documents and their Content.pdf
+│   │   ├── High accuracy - High Reproducability Topic Modelling.pdf
+│   │   ├── Kambiz - Node-cut TM.pdf
+│   │   ├── Large-scale-topic-modelling-KDD14Jubjub.pdf
+│   │   ├── LDA.pdf
+│   │   ├── Non-parametric estimation of topic hierarchies from texts with hierarchical dirichlet processes.pdf
+│   │   ├── Probabilistic Topic Models.pdf
+│   │   ├── Probabilistic Topic Models - Steyyvers Griffiths.pdf
+│   │   ├── PTM Related
+│   │   │   ├── Automatic Evaluation of Topic Coherence.pdf
+│   │   │   ├── Spike and Slab Variable Selection.pdf
+│   │   │   ├── spikeslab Prediction and Variable Selection Using Spike and Slab Regression.pdf
+│   │   │   ├── Text Classi cation from Labeled and Unlabeled Documents using EM.pdf
+│   │   │   └── Understanding the Limiting Factors of Topic Modeling.pdf
+│   │   ├── Relational Topic Models for Document Networks.pdf
+│   │   ├── rfp0118-liangA.pdf
+│   │   ├── The Dual-Sparse Topic Model Mining Focused Topics and Focused Terms in Short Text.pdf
+│   │   ├── Topic-Link LDA - Joint Models of Topic and Author Community.pdf
+│   │   ├── Topic Modeling of Short Texts - A Pseudo-Document View.pdf
+│   │   └── Word Network Topic Model - A Simple but General Solution for Short and Imbalanced Texts.pdf
+│   ├── Translation
+│   │   ├── Google's Multilingual Neural Machine Translation System - Enabling Zero-Shot Translation.pdf
+│   │   └── Transfer Learning for Low-Resource Neural Machine Translation.pdf
+│   ├── Useful Statistics for Corpus Linguistics.pdf
+│   ├── Word Embeddings
+│   │   ├── 5477-neural-word-embedding-as-implicit-matrix-factorization.pdf
+│   │   ├── A neural probabilistic language model.pdf
+│   │   ├── A survey of cross-lingual embedding models.pdf
+│   │   ├── Bayesian Neural Word Embedding .pdf
+│   │   ├── Dependency-Based Word Embeddings.pdf
+│   │   ├── Distributed representations of words and phrases and their compositionality.pdf
+│   │   ├── Efficient estimation of word representations in vector space.pdf
+│   │   ├── Evaluation methods for unsupervised word embeddings.pdf
+│   │   ├── Extensions of RNN Language Models.pdf
+│   │   ├── GloVe Global Vectors for Word Representation.pdf
+│   │   ├── Linguistic Regularities in Sparse and Explicit Word Representations.pdf
+│   │   ├── Mikolov - Paragraph vector.pdf
+│   │   ├── word2vec Explained -  Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method.pdf
+│   │   └── word2vec Parameter Learning Explained.pdf
+│   ├── Word Sense Clustering Review.pdf
+│   └── Words Historical.pdf
+├── Non-CS
+│   ├── 6_Probabilistic_modeling_as_an_exploratory_decisionmaking_tool.pdf
+│   ├── brownian-protests-kdd14.pdf
+│   ├── FB-relationships.pdf
+│   ├── Finding good crowdsourcing workers.pdf
+│   ├── Generalized friendship paradox in complex networks.pdf
+│   ├── IDENTIFYING EXOPLANETS WITH DEEP LEARNING.pdf
+│   ├── Multi-scale compositionality: identifying the compositional structures of social dynamics using deep learning..pdf
+│   ├── PAlexander_SKA_Computational_Challenges.pdf
+│   ├── Probabilistic Models of Cognition.pdf
+│   ├── ProblemFreeActivity.pdf
+│   ├── Slow Winter.pdf
+│   └── The Square Kilometer Array.pdf
+├── Notes
+│   └── Machine Learning  The High-Interest Credit Card of Technical Debt.txt
+├── Online Learning
+│   ├── A Bayesian Approach to Online Learning.pdf
+│   ├── Active Learning with Drifting Streaming Data.pdf
+│   ├── Active learning with evolving streaming data.pdf
+│   ├── Adapting to Concept Drift in Credit Card Transaction Data Streams Using Contextual Bandits and Decision Trees.pdf
+│   ├── Adaptive Model Rules from Data Streams.pdf
+│   ├── Adaptive Parameter-free Learning from Evolving Data Streams.pdf
+│   ├── Advances on Concept Drift Detection in Regression Task Using Social Networks.pdf
+│   ├── Algorithms for Learning Regression Trees and Ensembles on Evolving Data Streams - Ikonomovska Thesis.pdf
+│   ├── Approximation Vector Machines for Large-scale Online Learning .pdf
+│   ├── A Survey on Ensemble Learning for Data Stream Classification.pdf
+│   ├── A survey on online kernel selection for online kernel learning.pdf
+│   ├── Batch-Incremental versus Instance-Incremental Learning in Dynamic and Evolving Data.pdf
+│   ├── Boosting in the Online Setting.pdf
+│   ├── Dealing with Multiple Classes in Online Class Imbalance Learning.pdf
+│   ├── Ensemble Learning for Data Stream Analysis - A Survey.pdf
+│   ├── Evaluation methods and decision theory for classification of streaming data with temporal dependence.pdf
+│   ├── Gradient Boosting on Stochastic Data Streams.pdf
+│   ├── Handling Time Changing Data with Adaptive Very Fast Decision Rules.pdf
+│   ├── Improving Adaptive Bagging Methods  for Evolving Data Streams.pdf
+│   ├── Incremental Online Learning in High Dimensions.pdf
+│   ├── Large Scale Online Kernel Learning .pdf
+│   ├── Learning Decision Rules from Data Streams.pdf
+│   ├── Learning from data streams with concept drift - PhD Thesis.pdf
+│   ├── Learning in the presence of concept drift and hidden contexts.pdf
+│   ├── Learning under Concept Drift  an Overview.pdf
+│   ├── Leveraging Bagging for Evolving Data Streams.pdf
+│   ├── Link to Semi-Supervised Learning on Data Streams via Temporal Label Propagation.pdf
+│   ├── Mining complex models from arbitrarily large databases in constant time.pdf
+│   ├── New Ensemble Methods For Evolving Data Streams.pdf
+│   ├── Online Algorithms in Machine Learning.pdf
+│   ├── Online bagging and boosting - Cont.pdf
+│   ├── Online bagging and boosting.pdf
+│   ├── Online Boosting
+│   │   ├── A Family of Online Boosting Algorithms.pdf
+│   │   ├── An Online Boosting Algorithm with Theoretical Justifications.pdf
+│   │   ├── Online Gradient Boosting for Incremental Recommender Systems.pdf
+│   │   ├── Online Gradient Boosting.pdf
+│   │   └── Optimal and Adaptive Algorithms for Online Boosting.pdf
+│   ├── Online Boosting Presentation.pdf
+│   ├── Online Classification on a Budget.pdf
+│   ├── Online Dual Coordinate Ascent Learning.pdf
+│   ├── Online Hashing.pdf
+│   ├── Online Importance Weight Aware Updates.pdf
+│   ├── Online Learning and Online Convex Optimization.pdf
+│   ├── Online Learning and Stochastic Approximations.pdf
+│   ├── Online Learning - Theory Algorithms and Applications - PhD Thesis.pdf
+│   ├── Online learning to diversify from implicit feedback.pdf
+│   ├── Online Learning to Rank in Stochastic Click Models.pdf
+│   ├── Online Learning with Kernels.pdf
+│   ├── Online Machine Learning in Big Data Streams.pdf
+│   ├── Online Multiclass Boosting.pdf
+│   ├── Online Multi-Class LPBoost.pdf
+│   ├── Online particle detection with Neural Networks based on topological calorimetry information.pdf
+│   ├── Online Passive-Aggressive Algorithms on a Budget.pdf
+│   ├── Online Passive-Aggressive Algorithms.pdf
+│   ├── Online Variational Inference for the Hierarchical Dirichlet Process.pdf
+│   ├── On the Relationship between Online Gaussian Process Regression and Kernel Least Mean Squares Algorithms.pdf
+│   ├── Optimal And Adaptive Online Learning - Slides.pdf
+│   ├── Optimal And Adaptive Online Learning - Thesis.pdf.pdf
+│   ├── Pegasos: Primal Estimated sub-GrAdient SOlver for SVM.pdf
+│   ├── SAMOA - Scalable Advanced Massive Online Analysis.pdf
+│   ├── Sentiment knowledge discovery in twitter streaming data.pdf
+│   ├── Software
+│   │   ├── LIBOL - A Library for Online Learning Algorithms.pdf
+│   │   └── Scikit-multiflow - A Multi-output Streaming Learning Framework.pdf
+│   ├── Stochastic Methods for L1-regularized Loss Minimization.pdf
+│   ├── Streaming Gibbs Sampling for LDA Model.pdf
+│   ├── Streaming Kernel Principal Component Analysis.pdf
+│   ├── Streaming Sparse Principal Component Analysis.pdf
+│   ├── Streaming Variational Bayes.pdf
+│   ├── Theory and applications of Online Learning - Slide.pdf
+│   └── The problem of concept drift - definitions and related work.pdf
+├── Optimization
+│   ├── A Comparison of Optimization Methods and Software for Large-scale L1-regularized Linear Classification .pdf
+│   ├── Adam - A Method for Stochastic Optimization.pdf
+│   ├── Adding vs. Averaging in Distributed Primal-Dual Optimization.pdf
+│   ├── ADMM - Distributed optimization and statistical learning via the alternating direction method of multipliers.pdf
+│   ├── ADMM Extras
+│   │   ├── Asynchronous Distributed ADMM for Consensus Optimization.pdf
+│   │   ├── Augmented Lagrangian - ADMM Tutorial.pdf
+│   │   ├── Bregman ADMM.pdf
+│   │   ├── nipsworkshops2011_boyd_multipliers_01.pdf
+│   │   └── PDMM.pdf
+│   ├── A Fast Iterative Shrinkage-Thresholding Algorithm.pdf
+│   ├── A General Analysis of the Convergence of ADMM.pdf
+│   ├── A Multi-Batch L-BFGS Method for Machine Learning.pdf
+│   ├── A quasi-Newton proximal splitting method.pdf
+│   ├── A Review of Fast l1 minimization algorithms.pdf
+│   ├──  A trust-region method for stochastic variational inference with applications to streaming data.pdf
+│   ├──  A Variational Analysis of Stochastic Gradient Algorithms.pdf
+│   ├── Backprop without Learning Rates Through Coin Betting.pdf
+│   ├── Block Splitting for Distributed Optimization.pdf
+│   ├── Block stochastic gradient iteration for convex and nonconvex optimization.pdf
+│   ├── CoCoA vs CoCoA+.pdf
+│   ├── Communication Complexity of Distributed Convex Learning and Optimization.pdf
+│   ├──  Convex Optimization: Algorithms and Complexity.pdf
+│   ├── Cooperative Distributed Multi-Agent Optimization.pdf
+│   ├── CYCLADES - Conflict-free Asynchronous Machine Learning.pdf
+│   ├── Dual Averaging Methods for Regularized Stochastic Learning and Online Optimization.pdf
+│   ├── Efficient Euclidean Projections in Linear Time.pdf
+│   ├── Efficient Mini-batch Training for Stochastic Optimization.pdf
+│   ├── Efficient Projections onto the L1-Ball for Learning in High Dimensions.pdf
+│   ├── Fast alternating direction optimization methods.pdf
+│   ├── Fast Optimization Methods for L1 Regularization: A Comparative Study and Two New Approaches.pdf
+│   ├── First-order Methods Almost Always Avoid Saddle Points.pdf
+│   ├── Graphical Newton.pdf
+│   ├── Hamiltonian Descent Methods.pdf
+│   ├── HOGWILD! A Lock-Free Approach to Parallelizing Stochastic Gradient Descent.pdf
+│   ├── Implicit stochastic gradient descent.pdf
+│   ├── Introduction to Convex Optimization for Machine Learning.pdf
+│   ├── Introduction to Online Optimization - Notes.pdf
+│   ├── Large-Scale Elastic Net Regularized Linear Classification SVMs and Logistic Regression.pdf
+│   ├── Link to Optimization by Gradient Boosting.pdf
+│   ├── model-parallelism.pdf
+│   ├── Natural gradient works efficiently in learning.pdf
+│   ├── New insights and perspectives on the natural gradient method.pdf
+│   ├──  Newton Sketch: A Linear-time Optimization Algorithm with Linear-Quadratic Convergence.pdf
+│   ├── Online Learning and Stochastic Approximations.pdf
+│   ├── Online Learning Rate Adaptation with Hypergradient Descent.pdf
+│   ├── Optimal Distributed Online Prediction Using Mini-Batches.pdf
+│   ├── Optimal Regularized Dual Averaging Methods for Stochastic Optimization.pdf
+│   ├── Optimization Methods for L1-Regularization.pdf
+│   ├── Optimization Methods for Large-Scale Machine Learning.pdf
+│   ├── Optimizing Costly Functions with Simple Constraints: A Limited-Memory Projected Quasi-Newton Algorithm.pdf
+│   ├── Parallel Boosting with Momentum.pdf
+│   ├── Parallel coordinate descent methods for big data optimization.pdf
+│   ├── Parallel Dual Coordinate Descent Method for Large-scale Linear Classification in Multi-core Environments.pdf
+│   ├── Parallelized Stochastic Gradient Descent.pdf
+│   ├──  Path-SGD: Path-Normalized Optimization in Deep Neural Networks.pdf
+│   ├── Primal-dual subgradient methods for convex problems.pdf
+│   ├── Projection Onto Sets.pdf
+│   ├── Proximal Algorithms.pdf
+│   ├── proximal-lecture.pdf
+│   ├──  Proximal Splitting Methods in Signal Processing.pdf
+│   ├── Proximity Operator.pdf
+│   ├── Regularization and variable selection via the elastic net.pdf
+│   ├── Regularization in Statistics.pdf
+│   ├── Scalable Training of L1-Regularized Log-Linear Models.pdf
+│   ├── Slow Learners are Fast.pdf
+│   ├── Sparse Online Learning via Truncated Gradient.pdf
+│   ├──  Stability and optimality in stochastic gradient descent.pdf
+│   ├── Statistical Inference for Online Learning and Stochastic Approximation via Hierarchical Incremental Gradient Descent.pdf
+│   ├── Statistical inference using SGD.pdf
+│   ├──  Stochastic gradient descent methods for estimation with large data sets.pdf
+│   ├── Stochastic gradient descent methods for estimation with large data sets.pdf
+│   ├── Stochastic Gradient Descent Training for L1-regularized Log-linear Models with Cumulative Penalty.pdf
+│   ├── Stochastic Gradient Descent Training forL1-regularized Log-linear Models with Cumulative Penalty.pdf
+│   ├── Stochastic Gradient Descent Tricks.pdf
+│   ├── subgrad_method.pdf
+│   ├──  Taming the Wild: A Unified Analysis of Hogwild!-Style Algorithms.pdf
+│   ├── The Alternating Descent Conditional Gradient Method for Sparse Inverse Problems.pdf
+│   ├── The Interplay of Optimization and Machine Learning Research.pdf
+│   ├── The Marginal Value of Adaptive Gradient Methods in Machine Learning.pdf
+│   ├──  Train faster, generalize better Stability of stochastic gradient descent.pdf
+│   └── Understanding Generalization and Stochastic Gradient Descent.pdf
+├── papers.html
+├── papers.txt
+├── Phd Life
+│   ├── Planning
+│   │   ├── A survival Guide to a PhD.pdf
+│   │   ├── BadCareerInAcademia.pdf
+│   │   ├── How to Be a Successful PhD Student.pdf
+│   │   └── Research Debt.pdf
+│   ├── Posters
+│   │   └── Designing Scientific Posters.pdf
+│   ├── Presenting
+│   │   ├── David Attenborough talk technique 2018.pdf
+│   │   ├── Giving an Academic Talk - Berkeley.pdf
+│   │   ├── How to Give a Technical Presentation in CS - Cambridge.pdf
+│   │   ├── How to give a technical presentation - UW.pdf
+│   │   ├── Oral Presentation Advice - CS.ps
+│   │   └── Oral Presentation Advice.pdf
+│   ├── Reading
+│   │   └── How to Read a Paper.pdf
+│   ├── Reviewing
+│   │   ├── Samples
+│   │   │   └── WSDM uncertain trees.txt
+│   │   └── Writing reviews for systems conferences.pdf
+│   ├── thenightwatch.pdf
+│   └── Writing
+│       ├── good abstract example.md
+│       ├── good abstract.md
+│       ├── Kent Beck writing advice.md
+│       ├── Mathematical Writing.pdf
+│       ├── SDM_How_to_do_Research_Keogh.pdf
+│       ├── Simons_on_writing.pdf
+│       ├── Ten simple rules for structuring papers .pdf
+│       ├── Tips for writing technical papers.pdf
+│       ├── Writing a great abstract.pdf
+│       └── writing-a-paper-slides.pdf
+├── Privacy
+│   ├── A Study of Privacy and Fairness in Sensitive Data Analysis - Hardt Thesis.pdf
+│   ├── Differential Privacy Lecture.pdf
+│   ├── Discrimination- and Privacy-aware Patterns.pdf
+│   ├── Privacy-Preserving Data Mining: Methods, Metrics, and Applications.pdf
+│   └── Towards Federate Learning at Scale - System Design.pdf
+├── Probability
+│   └── Optimal inequalities in probability theory - A convex optimization approach.pdf
+├── Programming Languages
+│   ├── Generics of a Higher Kind.pdf
+│   └── R_inferno.pdf
+├── RecSys
+│   ├── Adapting to User Preference Changes in Interactive Recommendation.pdf
+│   ├── BPR - Bayesian Personalized Ranking from Implicit Feedback.pdf
+│   ├──  Collaborative Filtering beyond the User-Item Matrix A Survey of the State of the Art and Future Challenges.pdf
+│   ├── Collaborative Filtering for Implicit Feedback Datasets.pdf
+│   ├──  Context-Aware Bandits.pdf
+│   ├── Deep Neural Networks for YouTube Recommendations.pdf
+│   ├── Efficient Bayesian Methods for Graph-based Recommendation.pdf
+│   ├── Efficient Thompson Sampling for Online Matrix-Factorization Recommendation.pdf
+│   ├── Enhancing collaborative filtering music recommendation by balancing exploration and exploitation.pdf
+│   ├── Exploiting Temporal Influence in Online Recommendation.pdf
+│   ├── Fast Differentially Private Matrix Factorization.pdf
+│   ├── guess who rated.pdf
+│   ├── Image-based Recommendations on Styles and Substitutes.pdf
+│   ├── Interactive Recommender Systems.pdf
+│   ├── Large-Scale Matrix Factorization with Distributed Stochastic Gradient Descent.pdf
+│   ├── Learning Compatibility Across Categories for Heterogeneous Item Recommendation.pdf
+│   ├── Modeling User Exposure in Recommendation.pdf
+│   ├── Online Context-Dependent Clustering in Recommendations based on Exploration-Exploitation Algorithms.pdf
+│   ├── Online Rec Tutorial Summary.pdf
+│   ├── quantifying-movie-magic_research-studies.pdf
+│   ├──  Reducing offline evaluation bias of collaborative filtering algorithms.pdf
+│   ├── Session-based Recommendations with Recurrent Neural Networks.pdf
+│   ├── Style in the Long Tail-p1640-hu.pdf
+│   └── tennenholtz_abstract.pdf
+├── Representation Learning
+│   ├── A unified framework for representation-based subspace clustering of out-of-sample and large-scale data.pdf
+│   ├── Deep Learning of Representations for Unsupervised and Transfer Learning.pdf
+│   └── Poincaré Embeddings for Learning Hierarchical Representations.pdf
+├── Resource-efficient ML
+│   ├── Can traditional programming bridge the ninja performance gap for parallel computing applications?\012.pdf
+│   ├── Cuckoo Linear Algebra.pdf
+│   ├── Early Exit
+│   │   └── Early exit optimizations for additive machine learned ranking systems.pdf
+│   ├── Faster and Cheaper: Parallelizing Large-Scale Matrix Factorization on GPUs.pdf
+│   ├── FAWN: A Fast Array of Wimpy Nodes.pdf
+│   ├── FINN - A Framework for Fast, Scalable Binarized Neural Network Inference.pdf
+│   ├── flawn53.pdf
+│   ├── HPTT - A High-Performance Tensor Transposition C++ Library.pdf
+│   ├── JCUDA.pdf
+│   ├── Large-Scale Learning with Less RAM via Randomization .pdf
+│   ├── Link to Kylix - A Sparse Allreduce for Commodity Clusters.pdf
+│   ├──  Privacy for Free Posterior Sampling and Stochastic Gradient Monte Carlo.pdf
+│   ├── Quantized Neural Networks.pdf
+│   ├── QuickScorer - A Fast Algorithm to Rank Documents with Additive Ensembles of Regression Trees.pdf
+│   ├── Random Forests of Very Fast Decision Trees on GPU for Mining Evolving Big Data Streams.pdf
+│   ├── Resource-efficient Machine Learning in 2 KB RAM for the Internet of Things.pdf
+│   ├── Scalable and Sustainable Deep Learning via Randomized Hashing - KDD.pdf
+│   ├── Scalable and Sustainable Deep Learning via Randomized Hashing.pdf
+│   ├── StrassenNets - Deep learning with a multiplication budget.pdf
+│   ├── Structured Transforms for Small-Footprint Deep Learning.pdf
+│   ├── Tensor Processing unit - TPU.pdf
+│   ├── Training Deep Nets with Sublinear Memory Cost.pdf
+│   └── TRTRL: A Localized Resource-Efficient Learning Algorithm for Neural Networks.pdf
+├── Reviews - Surveys
+│   ├── A survey on learning from data streams: current and future trends.pdf
+│   ├── A survey on supervised classification on data streams.pdf
+│   ├── Boosting - Ferreira and Figueiredo 2013.pdf
+│   └── Popular Ensemble Methods - An Empirical Study.pdf
+├── Scene Understanding
+│   ├── A More Effective Method For Image Representation - Topic Model Based on Latent.pdf
+│   ├── A multi-view embedding space for modeling internet images, tags, and their semantics.pdf
+│   ├── Context Aware Topic Model for Scene Recognition.pdf
+│   ├── Framing image description as a ranking task: Data, models and evaluation metrics.pdf
+│   ├── Mining Associated Text and Images with Dual-Wing Harmoniums.pdf
+│   ├── Modelling Annotated Data.pdf
+│   ├── Simultaneous Image Classification and Annotation.pdf
+│   ├── Supervised Coupled Dictionary Learning with Group Structures for Multi-Modal Retrieval.pdf
+│   ├── Topic Models for Image Annotation and Text Illustration.pdf
+│   └── Towards Total Scene Understanding Classification Annotation and Segmentation in an Automatic Framework.pdf
+├── Semi-supervised learning
+│   ├── Semi-Supervised Learning on Data Streams via Temporal Label Propagation.pdf
+│   └── wagner18a-supp.zip
+├── SIGKDD Explorations
+│   └── Mining Big Data - V14-2.pdf
+├── Smola - SVM Regularization.pdf
+├── Spark
+│   ├── matei-zaharia-amp-camp-2012-advanced-spark.pdf
+│   ├── Shuffling - partitioning.pdf
+│   ├── Spark vs. Flink.pdf
+│   ├── week19b.pdf
+│   └── week19.pdf
+├── Statistics
+│   ├── A General Bootstrap Performance Diagnostic.pdf
+│   ├── Bayesian Measures of Explained Variance and Pooling in Hierarchical Models.pdf
+│   ├── Bootstrap methods - Another look at the jackknife.pdf
+│   ├── Concentration Inequalities
+│   │   ├── Concentration inequalities for sampling without replacement.pdf
+│   │   ├── TailBounds.pdf
+│   │   └── The Missing Factor in Hoeffding’s  Inequalities.pdf
+│   ├── Convincing Evidence.pdf
+│   ├── Counterfactual Reasoning and Learning Systems: The Example of Computational Advertising.pdf
+│   ├── Distributed Bayesian Posterior Sampling via Moment Sharing.pdf
+│   ├── Fast Cross-Validation via Sequential Testing .pdf
+│   ├── Garden of forking paths.pdf
+│   ├── Gelman EP as a way of life.pdf
+│   ├── GigerenzerMarewski2015-1.pdf
+│   ├── Google Causal Impact.pdf
+│   ├── Gradient descent algorithms for quantile regression with smooth approximation.pdf
+│   ├── Graphical Data Analysis.pdf
+│   ├── Imbalanced datasets.pdf
+│   ├── Least Quantile Regression.pdf
+│   ├── L-Moments - Analysis and Estimation of Distributions Using Linear Combinations of Order Statistics .pdf
+│   ├── Multilevel Modelling - What it can and cannot do
+│   ├── Multilevel Prediction.pdf
+│   ├── Of Beauty, sex, power - Gelman.pdf
+│   ├── On statistics, computation and scalability.pdf
+│   ├── P values and statistical practice.pdf
+│   ├── Quantile Regression
+│   │   ├── Additional tools for the interpretation and evaluation of the quantile regression model.pdf
+│   │   ├── Determining distribution parameters from quantiles.pdf
+│   │   ├── Estimating the mean and variance from the median, range, and the size of a sample.pdf
+│   │   ├── Moment estimation based on quantiles.pdf
+│   │   ├── Predictions in Quantile Regression.pdf
+│   │   ├── Quantil Regression - Theory and Applications.zip
+│   │   └── Variable Selection in Quantile Regression.pdf
+│   ├── Risk and Unertainty - A Fallacy of Large Numbers.pdf
+│   ├── Spike and Slab
+│   │   ├── Bayesian Inference for Structured Spike and Slab Priors.pdf
+│   │   ├── Bayesian Variable Selection for Logistic Models Using Auxiliary Mixture Sampling.pdf
+│   │   ├── Bayesian Variable Selection in Linear Regression.pdf
+│   │   ├── BoomSpikeSlab - R package.pdf
+│   │   ├── Intro slides.pdf
+│   │   ├── Spike and slab variable selection - Frequentist and Bayesian Strategies.pdf
+│   │   ├── spikeslab - R package.pdf
+│   │   └── The Spike-and-Slab LASSO.pdf
+│   ├── Statistical paradises and paradoxes.pdf
+│   ├── The Importance of Convexity in Learning with Squared Loss.pdf
+│   ├── The Jackknife Estimation Method.pdf
+│   ├── The limits of probability modelling A serendipitous tale of goldfish, transfinite numbers, and pieces of string.pdf
+│   ├── The log transformation and its implications.pdf
+│   ├── The log transformation is special.pdf
+│   ├── Understanding predictive information criteria for Bayesian Models.pdf
+│   ├── What is the Question - Common Error in data analysis.pdf
+│   └──  When more data steer us wrong: Replications with the wrong dependent measure perpetuate erroneous conclusions.pdf
+├── Streaming
+│   ├── Anarchists Unite - Practical Entropy Approximation for Distributed Streams.pdf
+│   ├── A Study on Change Detection Methods.pdf
+│   ├── A Survey on Concept Drift Adaptation.pdf
+│   ├── Bayesian Models of Data Streams with Hierarchical Power Priors.pdf
+│   ├── Bifet - Adaptive Learning and Mining for Data Streams and Frequent Patterns.pdf
+│   ├── Bifet-Thesis-slides.pdf
+│   ├── Catching up with the Data Research Issues in Mining Data Streams.pdf
+│   ├──  Change Detection in Multivariate Datastreams Likelihood and Detectability Loss.pdf
+│   ├── Crash Course on Data Stream Algorithms.pdf
+│   ├── datasketches_2018_06_27.pdf
+│   ├── eurosys12_kineograph.pdf
+│   ├── Faye Thesis - VHT on Flink.pdf
+│   ├── HyperLogLog Hyper Extended: Sketches for Concave Sublinear Frequency Statistics.pdf
+│   ├── Issues in Evaluation of Stream Learning Algorithms.pdf
+│   ├── Jubatus - Streaming ML framework.pdf
+│   ├──  LOFS Library of Online Streaming Feature Selection.pdf
+│   ├── MacroBase - Prioritizing Attention in Fast Data.pdf
+│   ├── Maintaining stream statistics over sliding windows.pdf
+│   ├── Mergeable Summaries.pdf
+│   ├── Mining Big Data Current Status, and Forecast to the Future.pdf
+│   ├── Mining Big Data in Real Time.pdf
+│   ├── Models and Issues in Data Stream Systems.pdf
+│   ├── Monitoring Data Streams - Classification under Uncertainty for Streaming Data.pdf
+│   ├── Next challenges for adaptive learning systems.pdf
+│   ├── Open Challenges for Data Stream Mining Research.pdf
+│   ├── Quantile Estimation
+│   │   ├── A note on bootstrapping the variance of sample quantile.pdf
+│   │   ├── Dynamic Histograms: Capturing Evolving Data Sets.pdf
+│   │   ├── Efficient Mergeable Quantile Sketches using Moments.pdf
+│   │   ├── Frugal Streaming for Estimating Quantiles:One (or two).pdf
+│   │   ├── lecture_10.pdf
+│   │   ├── Optimal Quantile Approximation in Streams.pdf
+│   │   ├── Quantile and Equidepth Histograms over Streams.pdf
+│   │   ├── Quantiles and Equi-depth Histograms over Streams.pdf
+│   │   ├── Quantiles on Streams.pdf
+│   │   ├── Random Sampling Techniques for Space Efficient Online Computation of Order Statistics of Large Datasets.pdf
+│   │   ├── Sequential Quantiles via Hermite Series Density Estimation.pdf
+│   │   ├── Space and Time Efficient Deterministic Algorithms for Biased Quantiles over Data Streams.pdf
+│   │   └── Space-Efficient Online Computation of Quantile Summaries.pdf
+│   ├── Random Forests of Very Fast Decision Trees on GPU for Mining Evolving Big Data Streams.pdf
+│   ├── SAMOA - JMLR.pdf
+│   ├── Sliding-Window Aggregation Algorirthms.pdf
+│   ├── Sliding Windows Aggregation - Tutorial.pdf
+│   ├── Streaming Similarity Self-join.pdf
+│   ├── The 8 Requirements of Real-Time Stream Processing.pdf
+│   └── Zliobaite_Concept Drift.pdf
+├── Theoretical CS
+│   ├──  Benchmarking Blunders and Things That Go Bump in the Night.pdf
+│   └── Triangle Detection Versus Matrix Multiplication.pdf
+├── thvasilo-paper-list.txt
+├── Time Series Analysis
+│   ├── 5836-learning-theory-and-algorithms-for-forecasting-non-stationary-time-series.pdf
+│   ├── Multivariate Bayesian Structural Time Series Model.pdf
+│   └── Statistical and Machine Learning forecasting methods - Concerns and ways forwards.pdf
+├── Uncertainty
+│   ├── Active Online Confidence Boosting for Efficient Object Classification.pdf
+│   ├── Concrete Problems for Autonomous Vehicle Safety.pdf
+│   ├── Conservative decision-making and inference in uncertain dynamical systems.pdf
+│   ├── Introspective classification for robot perception - Extended Abstract p63.pdf
+│   ├── Introspective classification for robot perception.pdf
+│   ├── Online Bootstrap Confidence Intervals for the Stochastic Gradient Descent Estimator .pdf
+│   ├── Risk versus Uncertainty in Deep Learning:Bayes, Bootstrap and the Dangers of Dropout.pdf
+│   ├── Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles.pdf
+│   └── What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision.pdf
+├── Unsupervised Learning
+│   ├──  Attend, Infer, Repeat Fast Scene Understanding with Generative Models.pdf
+│   ├── Ghahramani - Unsupervised Learning.pdf
+│   ├── Structured VAEs Composing Probabilistic Graphical Models and Variational Autoencoders.pdf
+│   └── Tradeoffs for Space, Time, Data and Risk in Unsupervised Learning.pdf
+└── Variational Inference
+    ├── Operator Variational Inference.pdf
+    └── Variational inference for large-scale models of discrete choice.pdf
+
+129 directories, 1350 files
