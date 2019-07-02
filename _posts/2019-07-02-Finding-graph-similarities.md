@@ -405,3 +405,5 @@ records) in a matter of minutes.
 ### Discussion - Links to posts on social media
 
 As mentioned before, [the code is available on Github](https://github.com/sics-dna/concepts).
+
+[HackerNews](https://news.ycombinator.com/item?id=20339284)
