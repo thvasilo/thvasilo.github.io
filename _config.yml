@@ -1,6 +1,6 @@
 # Site settings
 title: Theodore Vasiloudis
-email: tvas@sics.se
+email: tvas@kth.se
 description: > # this means to ignore newlines until "baseurl:"
   This is the personal website for Theodore Vasiloudis.
   Here I will post thoughts and experiences on large-scale machine learning,
@@ -11,4 +11,4 @@ twitter_username: thvasilo
 github_username:  thvasilo
 
 # Build settings
-markdown: kramdown # redcarpet TODO: Github pages now only supports kramdown, need to switch over and fix math
+markdown: kramdown
