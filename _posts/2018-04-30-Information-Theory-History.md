@@ -100,7 +100,7 @@ $$
 H = -\sum_i{p_i log_2 p_i}
 $$
 
-Shannon defined a unit of measure for this information as "binary digits, or more _bits_", which he credited to John Tukey. A bit represents the unit of information that is present in the flipping of a coin, i.e. an event with two possible outcomes of equal probability.
+Shannon defined a unit of measure for this information as "binary digits, or _bits_", which he credited to John Tukey. A bit represents the unit of information that is present in the flipping of a coin, i.e. an event with two possible outcomes of equal probability.
 
 From the concept of redundancy Shannon developed ways to communicate natural language more efficiently, by making use of the probabilities of different symbols. He further defined the channel capacity of a noisy channel (Shannon limit) and the possibility of perfect communication in a noisy channel through the noisy-channel coding theorem. Removing redundancy could increase the rate of transfer, which underpins the field of compression, while adding redundancy can enable correct communication in the presence of errors, the basis of coding theory.
 
@@ -120,13 +120,13 @@ At the advice of Bush, Shannon switched from electrical engineering to mathemati
 
 > Although all parts of the Mendelian genetics theory have not been incontestably established, still it is possible for our purposes, to act as though they were, since the results obtained are known to be the same _as if_ the simple representation which we give were true. Hereafter we shall speak therefore as though the genes actually exist and as though our simple representation of hereditary phenomena were really true, since so far as we are concerned, this might just as well be so.
 
-It is important to take a moment and appreciate the workings of Shannon's approach here, and the liberty afforded to him to dig deep into a single idea, be it from the field of mathematics or the different era. Before his PhD dissertation Shannon published no articles other than his unpublished (though seminal) master's thesis. Although his Phd thesis was never published, (it sits at 45 citations according to Google scholar, compared to 105,460 for his information theory papers) he was given the chance to continue his research at the Institute of Advanced Study in Princeton, at that time occupied by giants such as Einstein and Kurt Gödel. There, he had the chance to discuss his ideas with mathematicians such as John Von Neumann, inventor of, among many other things, the computer architecture that underpins all modern computers.
+It is important to take a moment and appreciate the workings of Shannon's approach here, and the liberty afforded to him to dig deep into a single idea, be it from the field of mathematics or a different area. Before his PhD dissertation Shannon published no articles other than his unpublished (though seminal) master's thesis. Although his PhD thesis was never published, (it sits at 45 citations according to Google scholar, compared to 105,460 for his information theory papers) he was given the chance to continue his research at the Institute of Advanced Study in Princeton, at that time occupied by giants such as Einstein and Kurt Gödel. There, he had the chance to discuss his ideas with mathematicians such as John Von Neumann, inventor of, among many other things, the computer architecture that underpins all modern computers.
 
 It is safe to say that Shannon's interaction with many of the greatest thinkers of his era, Turing, Von Neumann, Einstein, Gödel, helped shape him as a scientist and enabled the development of one of the "great ideas" of the previous century.
 
 Another important consideration is the fact that Shannon made his greatest work while employed at the labs of a private company, Bell Labs, either while being assigned work from the government on wartime efforts, or later on in his own work. It is remarkable to think that private companies would fund mathematicians to perform basic research, but that is exactly what Bell Labs was doing during that era. The lab, now owned by Nokia, counts 8 Nobel Prizes among its accomplishments [Bell18]. One may wonder if such a lab exists today. Private initiatives in machine learning like OpenAI may come close, but other efforts like Facebook's FAIR labs and Google's Deepmind are doing cutting edge research, but always with a product focus, the results of the research are expected to be, in some way, useful for business purposes.
 
-The drive of Shannon is also an interesting topic. While looking at the cryptanalysis work it's easy to look back and draw a line between that and information theory, Shannon's personal process does not seem to reflect this. He is quoted in [Gleick11]:
+The drive of Shannon is also an interesting topic. As an outside observer, it's perhaps easy to look back at Shannon's cryptanalysis work  and draw a line between that and information theory. However, Shannon's personal process does not seem to reflect this. He is quoted in [Gleick11]:
 
 > My mind wanders around, and I conceive of different things day and night. Like a science-fiction writer, I'm thinking, "What if it were like this?"
 
@@ -138,7 +138,7 @@ Ever since the publication of the book by Shannon and Weaver, information theory
 
 Nevertheless, information theory would prove critical in a variety of fields. That included neuroscience [Dimitrov11], biology [Adami04], economics [Maasoumi93], machine learning [MacKay03], cognitive science [Dretske81], linguistics and natural language processing [Harris91], and of course communication [Gallager68] and compression [Johnson03].
 
-New applications are constantly being discovered as well. We note one example that is relevant to our research where coding theory is being used to speed up distributed machine learning [Lee18].
+New applications are constantly being developed as well. We note one example that is relevant to our research where coding theory is being used to speed up distributed machine learning [Lee18].
 
 ## Conclusions
 
